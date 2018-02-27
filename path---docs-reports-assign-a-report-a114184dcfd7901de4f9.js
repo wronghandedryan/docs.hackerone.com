@@ -1,2 +1,2 @@
-webpackJsonp([0xae71f1bf5d62],{412:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/reports/assign-a-report",title:"Assign a Report"}}},pathContext:{}}}});
+webpackJsonp([0xae71f1bf5d62],{422:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/reports/assign-a-report",title:"Assign a Report"}}},pathContext:{}}}});
 //# sourceMappingURL=path---docs-reports-assign-a-report-a114184dcfd7901de4f9.js.map

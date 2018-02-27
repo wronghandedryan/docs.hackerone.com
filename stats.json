@@ -13,8 +13,12 @@
       "path---docs-automation-how-integrations-work-78c391d56567e2cb5da5.js.map"
     ],
     "path---docs-customization-defining-scope": [
-      "path---docs-customization-defining-scope-7e700ad23208697e8443.js",
-      "path---docs-customization-defining-scope-7e700ad23208697e8443.js.map"
+      "path---docs-customization-defining-scope-d2196128782bd7341ef8.js",
+      "path---docs-customization-defining-scope-d2196128782bd7341ef8.js.map"
+    ],
+    "path---docs-program-operations-platform-configuration-billing-awarding-a-bonus": [
+      "path---docs-program-operations-platform-configuration-billing-awarding-a-bonus-873ab7a0be352e12a7ea.js",
+      "path---docs-program-operations-platform-configuration-billing-awarding-a-bonus-873ab7a0be352e12a7ea.js.map"
     ],
     "path---docs-hackers-choosing-program-invitations": [
       "path---docs-hackers-choosing-program-invitations-a80033ba6d454083189b.js",
@@ -52,6 +56,10 @@
       "path---docs-rewards-other-financial-rewards-5e2a9d8c000a66e8fd09.js",
       "path---docs-rewards-other-financial-rewards-5e2a9d8c000a66e8fd09.js.map"
     ],
+    "path---docs-program-operations-miscellaneous-communicating-with-hackers": [
+      "path---docs-program-operations-miscellaneous-communicating-with-hackers-f60951b7ca1405b79c41.js",
+      "path---docs-program-operations-miscellaneous-communicating-with-hackers-f60951b7ca1405b79c41.js.map"
+    ],
     "path---docs-hackers-invitation-rejection-questionnaire": [
       "path---docs-hackers-invitation-rejection-questionnaire-f9cb57ec59a92c446ffc.js",
       "path---docs-hackers-invitation-rejection-questionnaire-f9cb57ec59a92c446ffc.js.map"
@@ -69,8 +77,8 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---docs-customization-policy-and-scope": [
-      "path---docs-customization-policy-and-scope-b558d4428e56773f9e0c.js",
-      "path---docs-customization-policy-and-scope-b558d4428e56773f9e0c.js.map"
+      "path---docs-customization-policy-and-scope-96412e38199c30660e0e.js",
+      "path---docs-customization-policy-and-scope-96412e38199c30660e0e.js.map"
     ],
     "path---docs-rewards-bounties": [
       "path---docs-rewards-bounties-84b6db099c8784cb674c.js",
@@ -96,13 +104,17 @@
       "path---docs-reports-definition-a1cdddff3d491d42e838.js",
       "path---docs-reports-definition-a1cdddff3d491d42e838.js.map"
     ],
+    "path---docs-program-operations-platform-configuration-authentication-sso-via-saml": [
+      "path---docs-program-operations-platform-configuration-authentication-sso-via-saml-53e45cd2dc267ab9c690.js",
+      "path---docs-program-operations-platform-configuration-authentication-sso-via-saml-53e45cd2dc267ab9c690.js.map"
+    ],
     "path---docs-customization-hacker-management": [
       "path---docs-customization-hacker-management-e04c6607df2b8f953e16.js",
       "path---docs-customization-hacker-management-e04c6607df2b8f953e16.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-ff28318c248e2295992d.js",
-      "component---src-layouts-index-js-ff28318c248e2295992d.js.map"
+      "component---src-layouts-index-js-2972f59ca2d9a5ed8ca5.js",
+      "component---src-layouts-index-js-2972f59ca2d9a5ed8ca5.js.map"
     ],
     "path---docs-customization-inbox-views": [
       "path---docs-customization-inbox-views-60668c335c93664ccf0e.js",
@@ -121,8 +133,8 @@
       "path---page-2-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---index": [
-      "path---index-95202b925536f0d98912.js",
-      "path---index-95202b925536f0d98912.js.map"
+      "path---index-218d451412d1d0d8ecaf.js",
+      "path---index-218d451412d1d0d8ecaf.js.map"
     ],
     "path---docs-customization-metrics-display": [
       "path---docs-customization-metrics-display-68f291254515363d5f44.js",
@@ -160,6 +172,10 @@
       "path---docs-payment-and-billing-paying-the-hacker-031a98144ec661a9eb3b.js",
       "path---docs-payment-and-billing-paying-the-hacker-031a98144ec661a9eb3b.js.map"
     ],
+    "path---docs-program-operations-platform-configuration-authentication-ip-whitelisting": [
+      "path---docs-program-operations-platform-configuration-authentication-ip-whitelisting-d45c6b13883624a0dc60.js",
+      "path---docs-program-operations-platform-configuration-authentication-ip-whitelisting-d45c6b13883624a0dc60.js.map"
+    ],
     "path---docs-security-page-thanks": [
       "path---docs-security-page-thanks-3854a358f1cd95c96093.js",
       "path---docs-security-page-thanks-3854a358f1cd95c96093.js.map"
@@ -189,16 +205,16 @@
       "path---docs-security-page-completing-your-security-page-78f6e0f9f7c08d5890a1.js.map"
     ],
     "app": [
-      "app-165f7694c361cb788116.js",
-      "app-165f7694c361cb788116.js.map"
+      "app-d4b17bc3fe4cf999fa1f.js",
+      "app-d4b17bc3fe4cf999fa1f.js.map"
     ],
     "path---docs-hackers-invitations-priority-queue": [
       "path---docs-hackers-invitations-priority-queue-6dcb55f4edb7e0545027.js",
       "path---docs-hackers-invitations-priority-queue-6dcb55f4edb7e0545027.js.map"
     ],
     "component---src-templates-docs-js": [
-      "component---src-templates-docs-js-586d2ae84f602021327e.js",
-      "component---src-templates-docs-js-586d2ae84f602021327e.js.map"
+      "component---src-templates-docs-js-19acbe9a93d8a65f85c3.js",
+      "component---src-templates-docs-js-19acbe9a93d8a65f85c3.js.map"
     ],
     "path---docs-rewards-swag": [
       "path---docs-rewards-swag-4e15970e17b7b531b0d1.js",
@@ -232,6 +248,10 @@
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---docs-program-operations-platform-configuration-billing-payments": [
+      "path---docs-program-operations-platform-configuration-billing-payments-697fd5cbb575839962a7.js",
+      "path---docs-program-operations-platform-configuration-billing-payments-697fd5cbb575839962a7.js.map"
+    ],
     "path---docs-customization-asset-types": [
       "path---docs-customization-asset-types-663624421ea9d17e96ee.js",
       "path---docs-customization-asset-types-663624421ea9d17e96ee.js.map"
@@ -245,8 +265,8 @@
       "path---docs-automation-triggers-5d927f6b8456e6150470.js.map"
     ],
     "component---src-pages-docs-index-js": [
-      "component---src-pages-docs-index-js-e9c38a03c7c75f50a0c9.js",
-      "component---src-pages-docs-index-js-e9c38a03c7c75f50a0c9.js.map"
+      "component---src-pages-docs-index-js-2c6a1755e941a1b61a80.js",
+      "component---src-pages-docs-index-js-2c6a1755e941a1b61a80.js.map"
     ]
   }
 }
