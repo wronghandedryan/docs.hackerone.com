@@ -1,2 +1,2 @@
-webpackJsonp([0xbcd47845ae7f],{434:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/security-page/what-is-a-security-page",title:"What is a Security Page"}}},pathContext:{}}}});
+webpackJsonp([0xbcd47845ae7f],{402:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/security-page/what-is-a-security-page",title:"What is a Security Page"}}},pathContext:{}}}});
 //# sourceMappingURL=path---docs-security-page-what-is-a-security-page-ac0ceb1ef2608aab9e87.js.map

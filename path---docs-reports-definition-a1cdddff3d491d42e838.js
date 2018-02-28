@@ -1,2 +1,2 @@
-webpackJsonp([0x5b8911766858],{424:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/reports/definition",title:"Definition"}}},pathContext:{}}}});
+webpackJsonp([0x5b8911766858],{392:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/reports/definition",title:"Definition"}}},pathContext:{}}}});
 //# sourceMappingURL=path---docs-reports-definition-a1cdddff3d491d42e838.js.map
