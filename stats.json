@@ -8,17 +8,9 @@
       "path---programs-disclosure-assistance-8d0587d34aed067ca54c.js",
       "path---programs-disclosure-assistance-8d0587d34aed067ca54c.js.map"
     ],
-    "path---programs-rduplicate-reports": [
-      "path---programs-rduplicate-reports-cdfc0bc49b9b362b988e.js",
-      "path---programs-rduplicate-reports-cdfc0bc49b9b362b988e.js.map"
-    ],
     "path---programs-set-up-ip-whitelisting": [
       "path---programs-set-up-ip-whitelisting-3cbeb669606d40357c99.js",
       "path---programs-set-up-ip-whitelisting-3cbeb669606d40357c99.js.map"
-    ],
-    "path---programs-program-operations-platform-configuration-billing-payments": [
-      "path---programs-program-operations-platform-configuration-billing-payments-9b828ecc5c8f8ed755fb.js",
-      "path---programs-program-operations-platform-configuration-billing-payments-9b828ecc5c8f8ed755fb.js.map"
     ],
     "path---hackers-choosing-program-invitations": [
       "path---hackers-choosing-program-invitations-21c7c49a66f5391cbd4b.js",
@@ -39,6 +31,10 @@
     "component---src-pages-index-js": [
       "component---src-pages-index-js-64a6adb20a59f7ead083.js",
       "component---src-pages-index-js-64a6adb20a59f7ead083.js.map"
+    ],
+    "path---programs-duplicate-reports": [
+      "path---programs-duplicate-reports-2c6cb972c43f9b32c1e7.js",
+      "path---programs-duplicate-reports-2c6cb972c43f9b32c1e7.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -113,8 +109,8 @@
       "path---programs-awarding-bounties-8df7d136b993987e3506.js.map"
     ],
     "path---index": [
-      "path---index-97ec4324b9e0ed9e6d57.js",
-      "path---index-97ec4324b9e0ed9e6d57.js.map"
+      "path---index-67fcf17b819a80d7686b.js",
+      "path---index-67fcf17b819a80d7686b.js.map"
     ],
     "path---programs-hacktivity": [
       "path---programs-hacktivity-d0c02e828b0c93d7427d.js",
@@ -136,9 +132,9 @@
       "path---hackers-hacker-reviews-0014f78584c02fbd50f6.js",
       "path---hackers-hacker-reviews-0014f78584c02fbd50f6.js.map"
     ],
-    "path---programs-program-operations-platform-configuration-billing-awarding-a-bonus": [
-      "path---programs-program-operations-platform-configuration-billing-awarding-a-bonus-7dad8975b9220df6a82d.js",
-      "path---programs-program-operations-platform-configuration-billing-awarding-a-bonus-7dad8975b9220df6a82d.js.map"
+    "path---programs-awarding-a-bonus": [
+      "path---programs-awarding-a-bonus-68c4295b4780e7f8cfb8.js",
+      "path---programs-awarding-a-bonus-68c4295b4780e7f8cfb8.js.map"
     ],
     "commons": [
       "commons-7455fbf85698e06ac815.js",
@@ -158,6 +154,10 @@
       "path---programs-thanks-eb3946c8ebc074c6dde3.js",
       "path---programs-thanks-eb3946c8ebc074c6dde3.js.map"
     ],
+    "path---programs-payments": [
+      "path---programs-payments-fba01de6af5ebc450fa5.js",
+      "path---programs-payments-fba01de6af5ebc450fa5.js.map"
+    ],
     "component---src-templates-programs-js": [
       "component---src-templates-programs-js-6182e1f4693ecc50a8fd.js",
       "component---src-templates-programs-js-6182e1f4693ecc50a8fd.js.map"
@@ -175,9 +175,9 @@
       "path---programs-paying-the-hacker-8643b427c8173e169990.js.map"
     ],
     "app": [
-      "app-2573faf45cc66c7840cd.js",
+      "app-ef84cdf7e40f6bbf62ed.js",
       "build-js-styles.css",
-      "app-2573faf45cc66c7840cd.js.map",
+      "app-ef84cdf7e40f6bbf62ed.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [

@@ -1,2 +1,2 @@
-webpackJsonp([0xff71dfb9f546],{381:function(t,n){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{path:"/programs/bounties",title:"Bounties"}}},pathContext:{}}}});
+webpackJsonp([0xff71dfb9f546],{382:function(t,n){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{path:"/programs/bounties",title:"Bounties"}}},pathContext:{}}}});
 //# sourceMappingURL=path---programs-bounties-63c188dd660320bb7857.js.map
