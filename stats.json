@@ -1,208 +1,216 @@
 {
   "assetsByChunkName": {
-    "path---docs-navigation-overview-inbox": [
-      "path---docs-navigation-overview-inbox-85463aac6865cd775c1a.js",
-      "path---docs-navigation-overview-inbox-85463aac6865cd775c1a.js.map"
+    "path---programs-correcting-information": [
+      "path---programs-correcting-information-d8f2f67a27663c8785fd.js",
+      "path---programs-correcting-information-d8f2f67a27663c8785fd.js.map"
     ],
-    "path---docs-reports-duplicate-reports": [
-      "path---docs-reports-duplicate-reports-31c9a0f367cb564eb3c7.js",
-      "path---docs-reports-duplicate-reports-31c9a0f367cb564eb3c7.js.map"
+    "path---programs-disclosure-assistance": [
+      "path---programs-disclosure-assistance-8d0587d34aed067ca54c.js",
+      "path---programs-disclosure-assistance-8d0587d34aed067ca54c.js.map"
     ],
-    "path---docs-customization-defining-scope": [
-      "path---docs-customization-defining-scope-3c1f5e26eef75bbd3098.js",
-      "path---docs-customization-defining-scope-3c1f5e26eef75bbd3098.js.map"
+    "path---programs-rduplicate-reports": [
+      "path---programs-rduplicate-reports-cdfc0bc49b9b362b988e.js",
+      "path---programs-rduplicate-reports-cdfc0bc49b9b362b988e.js.map"
     ],
-    "path---docs-program-operations-platform-configuration-billing-awarding-a-bonus": [
-      "path---docs-program-operations-platform-configuration-billing-awarding-a-bonus-9068461438291fcadeb0.js",
-      "path---docs-program-operations-platform-configuration-billing-awarding-a-bonus-9068461438291fcadeb0.js.map"
+    "path---programs-program-operations-platform-configuration-billing-payments": [
+      "path---programs-program-operations-platform-configuration-billing-payments-9b828ecc5c8f8ed755fb.js",
+      "path---programs-program-operations-platform-configuration-billing-payments-9b828ecc5c8f8ed755fb.js.map"
     ],
-    "path---docs-hackers-choosing-program-invitations": [
-      "path---docs-hackers-choosing-program-invitations-385c550edce90c795894.js",
-      "path---docs-hackers-choosing-program-invitations-385c550edce90c795894.js.map"
+    "path---hackers-choosing-program-invitations": [
+      "path---hackers-choosing-program-invitations-21c7c49a66f5391cbd4b.js",
+      "path---hackers-choosing-program-invitations-21c7c49a66f5391cbd4b.js.map"
     ],
-    "path---docs-reports-customization": [
-      "path---docs-reports-customization-6c6f63787487fcd9701f.js",
-      "path---docs-reports-customization-6c6f63787487fcd9701f.js.map"
+    "path---programs": [
+      "path---programs-a0e39f21c11f6a62c5ab.js",
+      "path---programs-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---programs-what-is-a-security-page": [
+      "path---programs-what-is-a-security-page-aa68a4fa52fded9c9a32.js",
+      "path---programs-what-is-a-security-page-aa68a4fa52fded9c9a32.js.map"
+    ],
+    "path---programs-policy-and-scope": [
+      "path---programs-policy-and-scope-fe8f798cd5d093d4fa3f.js",
+      "path---programs-policy-and-scope-fe8f798cd5d093d4fa3f.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-64a6adb20a59f7ead083.js",
-      "component---src-pages-index-js-64a6adb20a59f7ead083.js.map"
-    ],
-    "path---docs-customization-invitation-rejection-questionnaire": [
-      "path---docs-customization-invitation-rejection-questionnaire-eef2d0b17abb9d7bd89a.js",
-      "path---docs-customization-invitation-rejection-questionnaire-eef2d0b17abb9d7bd89a.js.map"
-    ],
-    "path---docs-rewards-awarding-bounties": [
-      "path---docs-rewards-awarding-bounties-1c49b72ccfa5284dc9c6.js",
-      "path---docs-rewards-awarding-bounties-1c49b72ccfa5284dc9c6.js.map"
-    ],
-    "path---docs-security-page-claiming-the-security-page": [
-      "path---docs-security-page-claiming-the-security-page-29658f762ccd73cef74d.js",
-      "path---docs-security-page-claiming-the-security-page-29658f762ccd73cef74d.js.map"
-    ],
-    "path---docs-rewards-other-financial-rewards": [
-      "path---docs-rewards-other-financial-rewards-6a8f3275f584c459adb8.js",
-      "path---docs-rewards-other-financial-rewards-6a8f3275f584c459adb8.js.map"
-    ],
-    "path---docs-hackers-invitation-rejection-questionnaire": [
-      "path---docs-hackers-invitation-rejection-questionnaire-21502befe827bfc3eb7b.js",
-      "path---docs-hackers-invitation-rejection-questionnaire-21502befe827bfc3eb7b.js.map"
+      "component---src-pages-index-js-1cb8db86f06fabd39238.js",
+      "component---src-pages-index-js-1cb8db86f06fabd39238.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
-    "path---docs-customization-policy-and-scope": [
-      "path---docs-customization-policy-and-scope-a56fc05338a5756862eb.js",
-      "path---docs-customization-policy-and-scope-a56fc05338a5756862eb.js.map"
+    "path---hackers-invitations-priority-queue": [
+      "path---hackers-invitations-priority-queue-6499e918f8b507134240.js",
+      "path---hackers-invitations-priority-queue-6499e918f8b507134240.js.map"
     ],
-    "path---docs-rewards-bounties": [
-      "path---docs-rewards-bounties-0444aa619e92ce40bfbe.js",
-      "path---docs-rewards-bounties-0444aa619e92ce40bfbe.js.map"
+    "path---programs-program-metrics": [
+      "path---programs-program-metrics-2969adbd3457c285415a.js",
+      "path---programs-program-metrics-2969adbd3457c285415a.js.map"
     ],
-    "path---docs-program-operations-miscellaneous-vacations": [
-      "path---docs-program-operations-miscellaneous-vacations-907f8fa6fe9551494fb4.js",
-      "path---docs-program-operations-miscellaneous-vacations-907f8fa6fe9551494fb4.js.map"
+    "path---programs-communicating-with-hackers": [
+      "path---programs-communicating-with-hackers-df39fb56e38a8f5eaa21.js",
+      "path---programs-communicating-with-hackers-df39fb56e38a8f5eaa21.js.map"
     ],
-    "path---docs-hackers-hacker-reviews": [
-      "path---docs-hackers-hacker-reviews-d5b5b100aff604c1a91b.js",
-      "path---docs-hackers-hacker-reviews-d5b5b100aff604c1a91b.js.map"
+    "path---programs-settings": [
+      "path---programs-settings-7d01164d739b8085af77.js",
+      "path---programs-settings-7d01164d739b8085af77.js.map"
     ],
-    "path---docs-reports-definition": [
-      "path---docs-reports-definition-4f842343bc0c9424e10e.js",
-      "path---docs-reports-definition-4f842343bc0c9424e10e.js.map"
+    "path---programs-definition": [
+      "path---programs-definition-c80bfd3c261e31962f4b.js",
+      "path---programs-definition-c80bfd3c261e31962f4b.js.map"
     ],
-    "path---docs-navigation-overview-settings": [
-      "path---docs-navigation-overview-settings-cd3450349f265d06ae5b.js",
-      "path---docs-navigation-overview-settings-cd3450349f265d06ae5b.js.map"
+    "path---programs-other-financial-rewards": [
+      "path---programs-other-financial-rewards-d2f1b390206d578020fc.js",
+      "path---programs-other-financial-rewards-d2f1b390206d578020fc.js.map"
     ],
-    "path---docs-program-operations-platform-configuration-authentication-sso-via-saml": [
-      "path---docs-program-operations-platform-configuration-authentication-sso-via-saml-067027d918b4d2749a29.js",
-      "path---docs-program-operations-platform-configuration-authentication-sso-via-saml-067027d918b4d2749a29.js.map"
+    "path---programs-assign-a-report": [
+      "path---programs-assign-a-report-25d803725340594eaec1.js",
+      "path---programs-assign-a-report-25d803725340594eaec1.js.map"
+    ],
+    "path---programs-ip-whitelisting": [
+      "path---programs-ip-whitelisting-ab16ca808c0b6a58994e.js",
+      "path---programs-ip-whitelisting-ab16ca808c0b6a58994e.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-d7a76232c18d62ce83dc.js",
-      "component---src-layouts-index-js-d7a76232c18d62ce83dc.js.map"
+      "component---src-layouts-index-js-dedc725526273a7cc8c2.js",
+      "component---src-layouts-index-js-dedc725526273a7cc8c2.js.map"
     ],
-    "path---docs-navigation-overview-directory": [
-      "path---docs-navigation-overview-directory-94a39d660560943da5a4.js",
-      "path---docs-navigation-overview-directory-94a39d660560943da5a4.js.map"
+    "path---hackers-invitation-rejection-questionnaire": [
+      "path---hackers-invitation-rejection-questionnaire-b1bf3eb9d52fcbe19bfc.js",
+      "path---hackers-invitation-rejection-questionnaire-b1bf3eb9d52fcbe19bfc.js.map"
     ],
-    "path---docs": [
-      "path---docs-a0e39f21c11f6a62c5ab.js",
-      "path---docs-a0e39f21c11f6a62c5ab.js.map"
+    "path---programs-claiming-the-security-page": [
+      "path---programs-claiming-the-security-page-3995e3ea6ee7a80b6cc5.js",
+      "path---programs-claiming-the-security-page-3995e3ea6ee7a80b6cc5.js.map"
     ],
-    "path---page-2": [
-      "path---page-2-a0e39f21c11f6a62c5ab.js",
-      "path---page-2-a0e39f21c11f6a62c5ab.js.map"
+    "path---programs-customization": [
+      "path---programs-customization-573f1d1ef19840883696.js",
+      "path---programs-customization-573f1d1ef19840883696.js.map"
+    ],
+    "path---programs-inbox": [
+      "path---programs-inbox-09084cb98820072c9902.js",
+      "path---programs-inbox-09084cb98820072c9902.js.map"
+    ],
+    "path---programs-create-custom-user-groups": [
+      "path---programs-create-custom-user-groups-f881ea3f06b9d8ccc8c1.js",
+      "path---programs-create-custom-user-groups-f881ea3f06b9d8ccc8c1.js.map"
+    ],
+    "path---programs-completing-your-security-page": [
+      "path---programs-completing-your-security-page-b8d9e5ba3358cf68fb5a.js",
+      "path---programs-completing-your-security-page-b8d9e5ba3358cf68fb5a.js.map"
+    ],
+    "component---src-pages-hackers-index-js": [
+      "component---src-pages-hackers-index-js-80be756edd4fff6ccba1.js",
+      "component---src-pages-hackers-index-js-80be756edd4fff6ccba1.js.map"
+    ],
+    "path---programs-awarding-bounties": [
+      "path---programs-awarding-bounties-8df7d136b993987e3506.js",
+      "path---programs-awarding-bounties-8df7d136b993987e3506.js.map"
     ],
     "path---index": [
-      "path---index-1412298cb2319c664125.js",
-      "path---index-1412298cb2319c664125.js.map"
+      "path---index-0fa290d416e4acac2d27.js",
+      "path---index-0fa290d416e4acac2d27.js.map"
+    ],
+    "path---programs-hacktivity": [
+      "path---programs-hacktivity-d0c02e828b0c93d7427d.js",
+      "path---programs-hacktivity-d0c02e828b0c93d7427d.js.map"
+    ],
+    "path---programs-vacations": [
+      "path---programs-vacations-c6c950172d01eb1cd951.js",
+      "path---programs-vacations-c6c950172d01eb1cd951.js.map"
+    ],
+    "path---programs-vulnerability-reports": [
+      "path---programs-vulnerability-reports-6973cfa93bb6d5af5481.js",
+      "path---programs-vulnerability-reports-6973cfa93bb6d5af5481.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
     ],
+    "path---hackers-hacker-reviews": [
+      "path---hackers-hacker-reviews-0014f78584c02fbd50f6.js",
+      "path---hackers-hacker-reviews-0014f78584c02fbd50f6.js.map"
+    ],
+    "path---programs-awarding-a-bonus": [
+      "path---programs-awarding-a-bonus-8f58627fe2b8934e05fe.js",
+      "path---programs-awarding-a-bonus-8f58627fe2b8934e05fe.js.map"
+    ],
+    "path---programs-program-operations-platform-configuration-billing-awarding-a-bonus": [
+      "path---programs-program-operations-platform-configuration-billing-awarding-a-bonus-abd2281ef481c4c4ea4f.js",
+      "path---programs-program-operations-platform-configuration-billing-awarding-a-bonus-abd2281ef481c4c4ea4f.js.map"
+    ],
     "commons": [
       "commons-5ba740f7d9fadbd78d15.js",
-      "commons-5ba740f7d9fadbd78d15.js.map"
-    ],
-    "path---docs-payment-and-billing-awarding-a-bonus": [
-      "path---docs-payment-and-billing-awarding-a-bonus-d76b4ed2f8b904709049.js",
-      "path---docs-payment-and-billing-awarding-a-bonus-d76b4ed2f8b904709049.js.map"
+      "build-js-styles.css",
+      "commons-5ba740f7d9fadbd78d15.js.map",
+      "build-js-styles.css.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---docs-payment-and-billing-paying-the-hacker": [
-      "path---docs-payment-and-billing-paying-the-hacker-a1bf62af419563d57596.js",
-      "path---docs-payment-and-billing-paying-the-hacker-a1bf62af419563d57596.js.map"
+    "path---programs-swag": [
+      "path---programs-swag-fc84d3aaa8e61b55139c.js",
+      "path---programs-swag-fc84d3aaa8e61b55139c.js.map"
     ],
-    "path---docs-program-operations-platform-configuration-authentication-ip-whitelisting": [
-      "path---docs-program-operations-platform-configuration-authentication-ip-whitelisting-9cc4e4ec6a1b5e3831ab.js",
-      "path---docs-program-operations-platform-configuration-authentication-ip-whitelisting-9cc4e4ec6a1b5e3831ab.js.map"
+    "path---programs-thanks": [
+      "path---programs-thanks-eb3946c8ebc074c6dde3.js",
+      "path---programs-thanks-eb3946c8ebc074c6dde3.js.map"
     ],
-    "path---docs-security-page-thanks": [
-      "path---docs-security-page-thanks-9cd6140fc7a49f7bcec8.js",
-      "path---docs-security-page-thanks-9cd6140fc7a49f7bcec8.js.map"
+    "path---programs-hackerone-directory": [
+      "path---programs-hackerone-directory-d6f07f763b027ad88a09.js",
+      "path---programs-hackerone-directory-d6f07f763b027ad88a09.js.map"
     ],
-    "path---docs-reports-assign-a-report": [
-      "path---docs-reports-assign-a-report-c088648cd8733f808359.js",
-      "path---docs-reports-assign-a-report-c088648cd8733f808359.js.map"
+    "path---programs-defining-scope": [
+      "path---programs-defining-scope-4cca0ad8cfcab9a901aa.js",
+      "path---programs-defining-scope-4cca0ad8cfcab9a901aa.js.map"
     ],
-    "path---docs-navigation-overview-hackerone-directory": [
-      "path---docs-navigation-overview-hackerone-directory-5301ea4741e945ef8331.js",
-      "path---docs-navigation-overview-hackerone-directory-5301ea4741e945ef8331.js.map"
-    ],
-    "path---docs-security-page-what-is-a-security-page": [
-      "path---docs-security-page-what-is-a-security-page-df04fc034790f43add73.js",
-      "path---docs-security-page-what-is-a-security-page-df04fc034790f43add73.js.map"
-    ],
-    "path---docs-program-operations-tool-tips-communicating-with-hackers": [
-      "path---docs-program-operations-tool-tips-communicating-with-hackers-0e6bc8348fa9e3ac3798.js",
-      "path---docs-program-operations-tool-tips-communicating-with-hackers-0e6bc8348fa9e3ac3798.js.map"
-    ],
-    "component---src-pages-page-2-js": [
-      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js",
-      "component---src-pages-page-2-js-075954cd9c4544c7dcd8.js.map"
-    ],
-    "path---docs-security-page-completing-your-security-page": [
-      "path---docs-security-page-completing-your-security-page-1fe4abb87606c6cd620c.js",
-      "path---docs-security-page-completing-your-security-page-1fe4abb87606c6cd620c.js.map"
-    ],
-    "path---docs-navigation-overview-correcting-information": [
-      "path---docs-navigation-overview-correcting-information-d14f0fc1fb5bcecf546e.js",
-      "path---docs-navigation-overview-correcting-information-d14f0fc1fb5bcecf546e.js.map"
+    "path---programs-paying-the-hacker": [
+      "path---programs-paying-the-hacker-8643b427c8173e169990.js",
+      "path---programs-paying-the-hacker-8643b427c8173e169990.js.map"
     ],
     "app": [
-      "app-e0144576b029f5f8dee8.js",
-      "app-e0144576b029f5f8dee8.js.map"
+      "app-1321a5179890d6a8b6b1.js",
+      "build-js-styles.css",
+      "app-1321a5179890d6a8b6b1.js.map",
+      "build-js-styles.css.map"
     ],
-    "path---docs-hackers-invitations-priority-queue": [
-      "path---docs-hackers-invitations-priority-queue-8e5636d9acf3a22e04e1.js",
-      "path---docs-hackers-invitations-priority-queue-8e5636d9acf3a22e04e1.js.map"
-    ],
-    "path---docs-program-operations-tool-tips-vulnerability-reports": [
-      "path---docs-program-operations-tool-tips-vulnerability-reports-de984df9a81e7dc623f4.js",
-      "path---docs-program-operations-tool-tips-vulnerability-reports-de984df9a81e7dc623f4.js.map"
+    "component---src-pages-programs-index-js": [
+      "component---src-pages-programs-index-js-bc0fc1f66e52e247a0e4.js",
+      "component---src-pages-programs-index-js-bc0fc1f66e52e247a0e4.js.map"
     ],
     "component---src-templates-docs-js": [
-      "component---src-templates-docs-js-f8b953c410038fdd491d.js",
-      "component---src-templates-docs-js-f8b953c410038fdd491d.js.map"
-    ],
-    "path---docs-rewards-swag": [
-      "path---docs-rewards-swag-8efb593c380fe6bf4913.js",
-      "path---docs-rewards-swag-8efb593c380fe6bf4913.js.map"
-    ],
-    "path---docs-programs-navigation-overview-hacktivity": [
-      "path---docs-programs-navigation-overview-hacktivity-83ced0b343c09372b996.js",
-      "path---docs-programs-navigation-overview-hacktivity-83ced0b343c09372b996.js.map"
-    ],
-    "path---docs-payment-and-billing-acceptable-payment-methods": [
-      "path---docs-payment-and-billing-acceptable-payment-methods-b7975e6ab5c21a661cf8.js",
-      "path---docs-payment-and-billing-acceptable-payment-methods-b7975e6ab5c21a661cf8.js.map"
-    ],
-    "path---docs-security-page-program-metrics": [
-      "path---docs-security-page-program-metrics-42dd11f01ecb65697da3.js",
-      "path---docs-security-page-program-metrics-42dd11f01ecb65697da3.js.map"
-    ],
-    "path---docs-navigation-overview-disclosure-assistance": [
-      "path---docs-navigation-overview-disclosure-assistance-3611a63226eb4c079c64.js",
-      "path---docs-navigation-overview-disclosure-assistance-3611a63226eb4c079c64.js.map"
+      "component---src-templates-docs-js-a44728a8963be66483a9.js",
+      "component---src-templates-docs-js-a44728a8963be66483a9.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---docs-program-operations-platform-configuration-billing-payments": [
-      "path---docs-program-operations-platform-configuration-billing-payments-62100fab23aeb1df133f.js",
-      "path---docs-program-operations-platform-configuration-billing-payments-62100fab23aeb1df133f.js.map"
+    "path---hackers": [
+      "path---hackers-a0e39f21c11f6a62c5ab.js",
+      "path---hackers-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "component---src-pages-docs-index-js": [
-      "component---src-pages-docs-index-js-2c6a1755e941a1b61a80.js",
-      "component---src-pages-docs-index-js-2c6a1755e941a1b61a80.js.map"
+    "path---programs-sso-via-saml": [
+      "path---programs-sso-via-saml-a1e3dd5bb95e34a6817a.js",
+      "path---programs-sso-via-saml-a1e3dd5bb95e34a6817a.js.map"
+    ],
+    "path---programs-acceptable-payment-methods": [
+      "path---programs-acceptable-payment-methods-f46707d83b7b564ad5cd.js",
+      "path---programs-acceptable-payment-methods-f46707d83b7b564ad5cd.js.map"
+    ],
+    "path---programs-directory": [
+      "path---programs-directory-0abca23156080b1b188d.js",
+      "path---programs-directory-0abca23156080b1b188d.js.map"
+    ],
+    "path---programs-invitation-rejection-questionnaire": [
+      "path---programs-invitation-rejection-questionnaire-6b56919c97dc78ae9101.js",
+      "path---programs-invitation-rejection-questionnaire-6b56919c97dc78ae9101.js.map"
+    ],
+    "path---programs-bounties": [
+      "path---programs-bounties-63c188dd660320bb7857.js",
+      "path---programs-bounties-63c188dd660320bb7857.js.map"
     ]
   }
 }
