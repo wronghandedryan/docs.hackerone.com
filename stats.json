@@ -5,8 +5,8 @@
       "path---programs-correcting-information-d8f2f67a27663c8785fd.js.map"
     ],
     "path---programs-disclosure-assistance": [
-      "path---programs-disclosure-assistance-8d0587d34aed067ca54c.js",
-      "path---programs-disclosure-assistance-8d0587d34aed067ca54c.js.map"
+      "path---programs-disclosure-assistance-5f01d912b45b8fee23f7.js",
+      "path---programs-disclosure-assistance-5f01d912b45b8fee23f7.js.map"
     ],
     "path---programs-set-up-ip-whitelisting": [
       "path---programs-set-up-ip-whitelisting-3cbeb669606d40357c99.js",
@@ -15,6 +15,10 @@
     "path---hackers-choosing-program-invitations": [
       "path---hackers-choosing-program-invitations-21c7c49a66f5391cbd4b.js",
       "path---hackers-choosing-program-invitations-21c7c49a66f5391cbd4b.js.map"
+    ],
+    "path---programs-best-practices-for-scope": [
+      "path---programs-best-practices-for-scope-8f7c85d0473d26791240.js",
+      "path---programs-best-practices-for-scope-8f7c85d0473d26791240.js.map"
     ],
     "path---programs": [
       "path---programs-a0e39f21c11f6a62c5ab.js",
@@ -29,8 +33,8 @@
       "path---programs-policy-and-scope-fe8f798cd5d093d4fa3f.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-64a6adb20a59f7ead083.js",
-      "component---src-pages-index-js-64a6adb20a59f7ead083.js.map"
+      "component---src-pages-index-js-281f7680d81e81653be1.js",
+      "component---src-pages-index-js-281f7680d81e81653be1.js.map"
     ],
     "path---programs-duplicate-reports": [
       "path---programs-duplicate-reports-2c6cb972c43f9b32c1e7.js",
@@ -61,8 +65,8 @@
       "path---programs-definition-c80bfd3c261e31962f4b.js.map"
     ],
     "component---src-templates-hackers-js": [
-      "component---src-templates-hackers-js-585f11cfecb70a47091d.js",
-      "component---src-templates-hackers-js-585f11cfecb70a47091d.js.map"
+      "component---src-templates-hackers-js-0a026f21cf218fc192b6.js",
+      "component---src-templates-hackers-js-0a026f21cf218fc192b6.js.map"
     ],
     "path---programs-other-financial-rewards": [
       "path---programs-other-financial-rewards-d2f1b390206d578020fc.js",
@@ -73,8 +77,8 @@
       "path---programs-assign-a-report-25d803725340594eaec1.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-dedc725526273a7cc8c2.js",
-      "component---src-layouts-index-js-dedc725526273a7cc8c2.js.map"
+      "component---src-layouts-index-js-735176217bc772021123.js",
+      "component---src-layouts-index-js-735176217bc772021123.js.map"
     ],
     "path---hackers-invitation-rejection-questionnaire": [
       "path---hackers-invitation-rejection-questionnaire-b1bf3eb9d52fcbe19bfc.js",
@@ -100,17 +104,21 @@
       "path---programs-completing-your-security-page-b8d9e5ba3358cf68fb5a.js",
       "path---programs-completing-your-security-page-b8d9e5ba3358cf68fb5a.js.map"
     ],
+    "path---programs-good-policies": [
+      "path---programs-good-policies-eae930dacd2327d1a7bd.js",
+      "path---programs-good-policies-eae930dacd2327d1a7bd.js.map"
+    ],
     "component---src-pages-hackers-index-js": [
-      "component---src-pages-hackers-index-js-0a588129cbfc7fa4a223.js",
-      "component---src-pages-hackers-index-js-0a588129cbfc7fa4a223.js.map"
+      "component---src-pages-hackers-index-js-81f81a47b5a8795c593a.js",
+      "component---src-pages-hackers-index-js-81f81a47b5a8795c593a.js.map"
     ],
     "path---programs-awarding-bounties": [
       "path---programs-awarding-bounties-8df7d136b993987e3506.js",
       "path---programs-awarding-bounties-8df7d136b993987e3506.js.map"
     ],
     "path---index": [
-      "path---index-903e10806029b9bdf040.js",
-      "path---index-903e10806029b9bdf040.js.map"
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---programs-hacktivity": [
       "path---programs-hacktivity-d0c02e828b0c93d7427d.js",
@@ -137,9 +145,9 @@
       "path---programs-awarding-a-bonus-68c4295b4780e7f8cfb8.js.map"
     ],
     "commons": [
-      "commons-7455fbf85698e06ac815.js",
+      "commons-334da5395f10cb714a67.js",
       "build-js-styles.css",
-      "commons-7455fbf85698e06ac815.js.map",
+      "commons-334da5395f10cb714a67.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -159,30 +167,30 @@
       "path---programs-payments-fba01de6af5ebc450fa5.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-6182e1f4693ecc50a8fd.js",
-      "component---src-templates-programs-js-6182e1f4693ecc50a8fd.js.map"
+      "component---src-templates-programs-js-830894fef72f2d4d1527.js",
+      "component---src-templates-programs-js-830894fef72f2d4d1527.js.map"
     ],
     "path---programs-hackerone-directory": [
       "path---programs-hackerone-directory-d6f07f763b027ad88a09.js",
       "path---programs-hackerone-directory-d6f07f763b027ad88a09.js.map"
     ],
     "path---programs-defining-scope": [
-      "path---programs-defining-scope-4cca0ad8cfcab9a901aa.js",
-      "path---programs-defining-scope-4cca0ad8cfcab9a901aa.js.map"
+      "path---programs-defining-scope-a8b40d092f6ba8f3a8e8.js",
+      "path---programs-defining-scope-a8b40d092f6ba8f3a8e8.js.map"
     ],
     "path---programs-paying-the-hacker": [
       "path---programs-paying-the-hacker-8643b427c8173e169990.js",
       "path---programs-paying-the-hacker-8643b427c8173e169990.js.map"
     ],
     "app": [
-      "app-dab21ca2648e63c28ab0.js",
+      "app-7404d96b63178fed40ed.js",
       "build-js-styles.css",
-      "app-dab21ca2648e63c28ab0.js.map",
+      "app-7404d96b63178fed40ed.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-76719d7aa1e000ec27f4.js",
-      "component---src-pages-programs-index-js-76719d7aa1e000ec27f4.js.map"
+      "component---src-pages-programs-index-js-df221f9e0c3d01e769cd.js",
+      "component---src-pages-programs-index-js-df221f9e0c3d01e769cd.js.map"
     ],
     "path---programs-single-sign-on-sso-via-saml": [
       "path---programs-single-sign-on-sso-via-saml-94671e6b80794c7c6fdc.js",
@@ -196,17 +204,21 @@
       "path---hackers-a0e39f21c11f6a62c5ab.js",
       "path---hackers-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---programs-acceptable-payment-methods": [
-      "path---programs-acceptable-payment-methods-f46707d83b7b564ad5cd.js",
-      "path---programs-acceptable-payment-methods-f46707d83b7b564ad5cd.js.map"
-    ],
     "path---programs-directory": [
-      "path---programs-directory-0abca23156080b1b188d.js",
-      "path---programs-directory-0abca23156080b1b188d.js.map"
+      "path---programs-directory-067d6d1f5c5ab1885bc4.js",
+      "path---programs-directory-067d6d1f5c5ab1885bc4.js.map"
+    ],
+    "path---programs-asset-types": [
+      "path---programs-asset-types-f116cda518923a9f29ca.js",
+      "path---programs-asset-types-f116cda518923a9f29ca.js.map"
     ],
     "path---programs-invitation-rejection-questionnaire": [
       "path---programs-invitation-rejection-questionnaire-6b56919c97dc78ae9101.js",
       "path---programs-invitation-rejection-questionnaire-6b56919c97dc78ae9101.js.map"
+    ],
+    "path---programs-submit-report-form": [
+      "path---programs-submit-report-form-1965d9f9f152c3e3e9d9.js",
+      "path---programs-submit-report-form-1965d9f9f152c3e3e9d9.js.map"
     ],
     "path---programs-bounties": [
       "path---programs-bounties-63c188dd660320bb7857.js",
