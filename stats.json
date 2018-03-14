@@ -20,10 +20,6 @@
       "path---programs-a0e39f21c11f6a62c5ab.js",
       "path---programs-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---programs-what-is-a-security-page": [
-      "path---programs-what-is-a-security-page-aa68a4fa52fded9c9a32.js",
-      "path---programs-what-is-a-security-page-aa68a4fa52fded9c9a32.js.map"
-    ],
     "path---programs-policy-and-scope": [
       "path---programs-policy-and-scope-fe8f798cd5d093d4fa3f.js",
       "path---programs-policy-and-scope-fe8f798cd5d093d4fa3f.js.map"
@@ -92,9 +88,13 @@
       "path---programs-email-forwarding-f4d4c9bd34cd77b7de78.js",
       "path---programs-email-forwarding-f4d4c9bd34cd77b7de78.js.map"
     ],
+    "path---programs-security-page": [
+      "path---programs-security-page-092473f6cfc440d81f45.js",
+      "path---programs-security-page-092473f6cfc440d81f45.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-b4466bdbfe4dad8a897c.js",
-      "component---src-layouts-index-js-b4466bdbfe4dad8a897c.js.map"
+      "component---src-layouts-index-js-29bc641104b0618b587f.js",
+      "component---src-layouts-index-js-29bc641104b0618b587f.js.map"
     ],
     "path---programs-inbox-views": [
       "path---programs-inbox-views-4fe06dad226ca794da93.js",
@@ -103,10 +103,6 @@
     "path---hackers-invitation-rejection-questionnaire": [
       "path---hackers-invitation-rejection-questionnaire-b1bf3eb9d52fcbe19bfc.js",
       "path---hackers-invitation-rejection-questionnaire-b1bf3eb9d52fcbe19bfc.js.map"
-    ],
-    "path---programs-claiming-the-security-page": [
-      "path---programs-claiming-the-security-page-3995e3ea6ee7a80b6cc5.js",
-      "path---programs-claiming-the-security-page-3995e3ea6ee7a80b6cc5.js.map"
     ],
     "path---programs-common-responses": [
       "path---programs-common-responses-6691c61298b2bda566b5.js",
@@ -211,9 +207,9 @@
       "path---programs-defining-scope-a8b40d092f6ba8f3a8e8.js.map"
     ],
     "app": [
-      "app-c0ec4a57d240b62a87d1.js",
+      "app-c1cf32b9eee88d9a7549.js",
       "build-js-styles.css",
-      "app-c0ec4a57d240b62a87d1.js.map",
+      "app-c1cf32b9eee88d9a7549.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
@@ -233,8 +229,8 @@
       "path---programs-pausing-report-submissions-4b0bb16ed8e84f2a7868.js.map"
     ],
     "path---programs-triggers": [
-      "path---programs-triggers-080dc4750200ffaaad91.js",
-      "path---programs-triggers-080dc4750200ffaaad91.js.map"
+      "path---programs-triggers-2d565779543ff86f9585.js",
+      "path---programs-triggers-2d565779543ff86f9585.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
