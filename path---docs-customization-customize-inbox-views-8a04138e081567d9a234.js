@@ -1,2 +1,2 @@
-webpackJsonp([0xe6c21a1b6dad],{392:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/customization/customize-inbox-views",title:"Customize Inbox Views"}}},pathContext:{}}}});
+webpackJsonp([0xe6c21a1b6dad],{387:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/customization/customize-inbox-views",title:"Customize Inbox Views"}}},pathContext:{}}}});
 //# sourceMappingURL=path---docs-customization-customize-inbox-views-8a04138e081567d9a234.js.map
