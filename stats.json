@@ -21,8 +21,8 @@
       "path---programs-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---programs-policy-and-scope": [
-      "path---programs-policy-and-scope-fe8f798cd5d093d4fa3f.js",
-      "path---programs-policy-and-scope-fe8f798cd5d093d4fa3f.js.map"
+      "path---programs-policy-and-scope-f8a9ed6cac2234d46178.js",
+      "path---programs-policy-and-scope-f8a9ed6cac2234d46178.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-30a98796608759a461ba.js",
@@ -44,6 +44,10 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---programs-severity": [
+      "path---programs-severity-23acc4c6b9b43fc36bb1.js",
+      "path---programs-severity-23acc4c6b9b43fc36bb1.js.map"
+    ],
     "path---hackers-invitations-priority-queue": [
       "path---hackers-invitations-priority-queue-6499e918f8b507134240.js",
       "path---hackers-invitations-priority-queue-6499e918f8b507134240.js.map"
@@ -53,8 +57,8 @@
       "path---programs-program-metrics-f5ba7c3bea4621062881.js.map"
     ],
     "path---programs-communicating-with-hackers": [
-      "path---programs-communicating-with-hackers-df39fb56e38a8f5eaa21.js",
-      "path---programs-communicating-with-hackers-df39fb56e38a8f5eaa21.js.map"
+      "path---programs-communicating-with-hackers-256eb56393966ae5f3fe.js",
+      "path---programs-communicating-with-hackers-256eb56393966ae5f3fe.js.map"
     ],
     "path---programs-response-slas": [
       "path---programs-response-slas-e44d9380c08519d6772e.js",
@@ -101,8 +105,8 @@
       "path---programs-security-page-092473f6cfc440d81f45.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-45c3097ab92224278cb0.js",
-      "component---src-layouts-index-js-45c3097ab92224278cb0.js.map"
+      "component---src-layouts-index-js-59712a1dcaf3fae44056.js",
+      "component---src-layouts-index-js-59712a1dcaf3fae44056.js.map"
     ],
     "path---programs-inbox-views": [
       "path---programs-inbox-views-4fe06dad226ca794da93.js",
@@ -165,8 +169,8 @@
       "path---hackers-hacker-reviews-0014f78584c02fbd50f6.js.map"
     ],
     "path---programs-awarding-a-bonus": [
-      "path---programs-awarding-a-bonus-68c4295b4780e7f8cfb8.js",
-      "path---programs-awarding-a-bonus-68c4295b4780e7f8cfb8.js.map"
+      "path---programs-awarding-a-bonus-9232a8cdada5ffa237f3.js",
+      "path---programs-awarding-a-bonus-9232a8cdada5ffa237f3.js.map"
     ],
     "commons": [
       "commons-988f6df6776b583f198c.js",
@@ -179,8 +183,8 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---programs-pulic-disclosure": [
-      "path---programs-pulic-disclosure-002043712c1ff168a9ad.js",
-      "path---programs-pulic-disclosure-002043712c1ff168a9ad.js.map"
+      "path---programs-pulic-disclosure-25631aba2f73a1dd6815.js",
+      "path---programs-pulic-disclosure-25631aba2f73a1dd6815.js.map"
     ],
     "path---programs-swag": [
       "path---programs-swag-8d6035c72b46f8c75b72.js",
@@ -223,9 +227,9 @@
       "path---programs-defining-scope-a8b40d092f6ba8f3a8e8.js.map"
     ],
     "app": [
-      "app-fb7ae5433c5fa7cd087b.js",
+      "app-878c0c6dab55950ff72e.js",
       "build-js-styles.css",
-      "app-fb7ae5433c5fa7cd087b.js.map",
+      "app-878c0c6dab55950ff72e.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [

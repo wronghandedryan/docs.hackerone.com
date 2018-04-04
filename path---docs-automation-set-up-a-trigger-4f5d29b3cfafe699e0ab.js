@@ -1,2 +1,2 @@
-webpackJsonp([5569245470188],{383:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/automation/set-up-a-trigger",title:"Set Up a Trigger"}}},pathContext:{}}}});
+webpackJsonp([5569245470188],{388:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/automation/set-up-a-trigger",title:"Set Up a Trigger"}}},pathContext:{}}}});
 //# sourceMappingURL=path---docs-automation-set-up-a-trigger-4f5d29b3cfafe699e0ab.js.map

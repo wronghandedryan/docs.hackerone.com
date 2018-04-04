@@ -1,0 +1,2 @@
+webpackJsonp([48033057312693],{398:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{path:"/docs/security-page/claiming-the-security-page",title:"Claiming the Security Page"}}},pathContext:{}}}});
+//# sourceMappingURL=path---docs-security-page-claiming-the-security-page-29658f762ccd73cef74d.js.map
