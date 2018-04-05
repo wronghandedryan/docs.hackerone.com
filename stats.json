@@ -25,8 +25,8 @@
       "path---programs-policy-and-scope-f8a9ed6cac2234d46178.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-30a98796608759a461ba.js",
-      "component---src-pages-index-js-30a98796608759a461ba.js.map"
+      "component---src-pages-index-js-861f9c1b7d3952bb954a.js",
+      "component---src-pages-index-js-861f9c1b7d3952bb954a.js.map"
     ],
     "path---programs-human-augmented-signal": [
       "path---programs-human-augmented-signal-be56baaf874cf598847d.js",
@@ -68,10 +68,6 @@
       "path---programs-locking-reports-f64ab8d7d9a47cb97c2d.js",
       "path---programs-locking-reports-f64ab8d7d9a47cb97c2d.js.map"
     ],
-    "path---programs-settings": [
-      "path---programs-settings-7d01164d739b8085af77.js",
-      "path---programs-settings-7d01164d739b8085af77.js.map"
-    ],
     "path---programs-definition": [
       "path---programs-definition-c80bfd3c261e31962f4b.js",
       "path---programs-definition-c80bfd3c261e31962f4b.js.map"
@@ -85,8 +81,8 @@
       "path---programs-bounties-for-reports-outside-of-hackerone-b3f3093efdcf77db683d.js.map"
     ],
     "component---src-templates-hackers-js": [
-      "component---src-templates-hackers-js-009371ab40ece9cf8bab.js",
-      "component---src-templates-hackers-js-009371ab40ece9cf8bab.js.map"
+      "component---src-templates-hackers-js-e14c184ed8747928c71a.js",
+      "component---src-templates-hackers-js-e14c184ed8747928c71a.js.map"
     ],
     "path---programs-keyboard-shortcuts": [
       "path---programs-keyboard-shortcuts-1f084a1446e9a0ed47e2.js",
@@ -105,8 +101,8 @@
       "path---programs-security-page-092473f6cfc440d81f45.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-59712a1dcaf3fae44056.js",
-      "component---src-layouts-index-js-59712a1dcaf3fae44056.js.map"
+      "component---src-layouts-index-js-b535196d19eee7dafe50.js",
+      "component---src-layouts-index-js-b535196d19eee7dafe50.js.map"
     ],
     "path---programs-inbox-views": [
       "path---programs-inbox-views-4fe06dad226ca794da93.js",
@@ -133,8 +129,8 @@
       "path---programs-good-policies-eae930dacd2327d1a7bd.js.map"
     ],
     "component---src-pages-hackers-index-js": [
-      "component---src-pages-hackers-index-js-81f81a47b5a8795c593a.js",
-      "component---src-pages-hackers-index-js-81f81a47b5a8795c593a.js.map"
+      "component---src-pages-hackers-index-js-388a429b56ac3cbe63e9.js",
+      "component---src-pages-hackers-index-js-388a429b56ac3cbe63e9.js.map"
     ],
     "path---programs-awarding-bounties": [
       "path---programs-awarding-bounties-a3e041baeceb341b8940.js",
@@ -173,9 +169,9 @@
       "path---programs-awarding-a-bonus-9232a8cdada5ffa237f3.js.map"
     ],
     "commons": [
-      "commons-988f6df6776b583f198c.js",
+      "commons-7b436a829e75b2bea519.js",
       "build-js-styles.css",
-      "commons-988f6df6776b583f198c.js.map",
+      "commons-7b436a829e75b2bea519.js.map",
       "build-js-styles.css.map"
     ],
     "path---404-html": [
@@ -199,8 +195,8 @@
       "path---programs-payments-1182c334c6a2d47c916e.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-2a6cd8f20c7677cbe313.js",
-      "component---src-templates-programs-js-2a6cd8f20c7677cbe313.js.map"
+      "component---src-templates-programs-js-ec5ee0febef41d724462.js",
+      "component---src-templates-programs-js-ec5ee0febef41d724462.js.map"
     ],
     "path---programs-program-a-report": [
       "path---programs-program-a-report-2489472b9244bf6d719e.js",
@@ -227,14 +223,14 @@
       "path---programs-defining-scope-a8b40d092f6ba8f3a8e8.js.map"
     ],
     "app": [
-      "app-878c0c6dab55950ff72e.js",
+      "app-850ca0afafb76736601a.js",
       "build-js-styles.css",
-      "app-878c0c6dab55950ff72e.js.map",
+      "app-850ca0afafb76736601a.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-d72d0a348007e812e59c.js",
-      "component---src-pages-programs-index-js-d72d0a348007e812e59c.js.map"
+      "component---src-pages-programs-index-js-d20c69f23b8146a9c364.js",
+      "component---src-pages-programs-index-js-d20c69f23b8146a9c364.js.map"
     ],
     "path---programs-export-reports": [
       "path---programs-export-reports-aef2a239f4043a391fe8.js",
