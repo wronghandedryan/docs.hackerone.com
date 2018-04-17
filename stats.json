@@ -9,8 +9,8 @@
       "path---programs-redmine-integration-251d057d06949f438db2.js.map"
     ],
     "path---programs-program-start-up-guide": [
-      "path---programs-program-start-up-guide-b6f64f7d148d1bae13cb.js",
-      "path---programs-program-start-up-guide-b6f64f7d148d1bae13cb.js.map"
+      "path---programs-program-start-up-guide-8efc0bd928f709dd1838.js",
+      "path---programs-program-start-up-guide-8efc0bd928f709dd1838.js.map"
     ],
     "path---programs-disclosure-assistance": [
       "path---programs-disclosure-assistance-5f01d912b45b8fee23f7.js",
@@ -32,17 +32,13 @@
       "path---hackers-choosing-program-invitations-21c7c49a66f5391cbd4b.js",
       "path---hackers-choosing-program-invitations-21c7c49a66f5391cbd4b.js.map"
     ],
-    "path---programs-welcome": [
-      "path---programs-welcome-e570eda988947d14e600.js",
-      "path---programs-welcome-e570eda988947d14e600.js.map"
-    ],
     "path---programs": [
-      "path---programs-b6f64f7d148d1bae13cb.js",
-      "path---programs-b6f64f7d148d1bae13cb.js.map"
+      "path---programs-b3ef065cb8321cd7d143.js",
+      "path---programs-b3ef065cb8321cd7d143.js.map"
     ],
     "path---programs-policy-and-scope": [
-      "path---programs-policy-and-scope-b4630e7a88259e7b2f2b.js",
-      "path---programs-policy-and-scope-b4630e7a88259e7b2f2b.js.map"
+      "path---programs-policy-and-scope-dc1a2d908a9bf1f5dcc1.js",
+      "path---programs-policy-and-scope-dc1a2d908a9bf1f5dcc1.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-8c3d893a8d658266e57b.js",
@@ -59,6 +55,10 @@
     "path---programs-signal-requirements": [
       "path---programs-signal-requirements-55cb5abb21a186b615de.js",
       "path---programs-signal-requirements-55cb5abb21a186b615de.js.map"
+    ],
+    "path---programs-products": [
+      "path---programs-products-aa9b1fb941a6438a313b.js",
+      "path---programs-products-aa9b1fb941a6438a313b.js.map"
     ],
     "path---programs-trac-integration": [
       "path---programs-trac-integration-5f731db4842dd008862d.js",
@@ -121,8 +121,8 @@
       "path---programs-email-forwarding-5e8cca40f41d0922471b.js.map"
     ],
     "path---programs-security-page": [
-      "path---programs-security-page-e788e06c10ac15e19084.js",
-      "path---programs-security-page-e788e06c10ac15e19084.js.map"
+      "path---programs-security-page-788b13f70c3caeed6ece.js",
+      "path---programs-security-page-788b13f70c3caeed6ece.js.map"
     ],
     "path---programs-bonuses": [
       "path---programs-bonuses-10fde2feec2db9e765ac.js",
@@ -148,6 +148,10 @@
       "path---programs-common-responses-6d734b894487bd2d2bd1.js",
       "path---programs-common-responses-6d734b894487bd2d2bd1.js.map"
     ],
+    "path---programs-jira-server-integration": [
+      "path---programs-jira-server-integration-541f80ee7587bf6dc2b5.js",
+      "path---programs-jira-server-integration-541f80ee7587bf6dc2b5.js.map"
+    ],
     "path---programs-create-custom-user-groups": [
       "path---programs-create-custom-user-groups-38ed4e489f5b3135aaf6.js",
       "path---programs-create-custom-user-groups-38ed4e489f5b3135aaf6.js.map"
@@ -165,8 +169,8 @@
       "component---src-pages-hackers-index-js-a3d2d2bc7b317804c9be.js.map"
     ],
     "path---programs-overview": [
-      "path---programs-overview-1a34a94c64b317e0b286.js",
-      "path---programs-overview-1a34a94c64b317e0b286.js.map"
+      "path---programs-overview-0d8c682d5938e9dcd8c8.js",
+      "path---programs-overview-0d8c682d5938e9dcd8c8.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -205,22 +209,18 @@
       "path---programs-servicenow-integration-fd029871f86da38735a2.js.map"
     ],
     "commons": [
-      "commons-6ca29f92fd0a8e22361b.js",
+      "commons-6db49f044c8ec9757786.js",
       "build-js-styles.css",
-      "commons-6ca29f92fd0a8e22361b.js.map",
+      "commons-6db49f044c8ec9757786.js.map",
       "build-js-styles.css.map"
-    ],
-    "path---programs-product-editions": [
-      "path---programs-product-editions-30ee0692b6c2b5e47f60.js",
-      "path---programs-product-editions-30ee0692b6c2b5e47f60.js.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
-    "path---programs-pulic-disclosure": [
-      "path---programs-pulic-disclosure-9bcdc6f88a30a7a829f5.js",
-      "path---programs-pulic-disclosure-9bcdc6f88a30a7a829f5.js.map"
+    "path---programs-public-disclosure": [
+      "path---programs-public-disclosure-9629348732dac2769daf.js",
+      "path---programs-public-disclosure-9629348732dac2769daf.js.map"
     ],
     "path---programs-swag": [
       "path---programs-swag-a58eb058db6c371fe46e.js",
@@ -235,12 +235,12 @@
       "path---programs-assembla-integration-d5c49255d1bb9f77b659.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-5ffa8fd87fa15730bbdf.js",
-      "component---src-templates-programs-js-5ffa8fd87fa15730bbdf.js.map"
+      "component---src-templates-programs-js-ffd43a6ba93ad72105a3.js",
+      "component---src-templates-programs-js-ffd43a6ba93ad72105a3.js.map"
     ],
     "path---programs-start-h-1-bounty": [
-      "path---programs-start-h-1-bounty-f3bda93d5f14fac0b6a7.js",
-      "path---programs-start-h-1-bounty-f3bda93d5f14fac0b6a7.js.map"
+      "path---programs-start-h-1-bounty-67e2cf78a1bf03301545.js",
+      "path---programs-start-h-1-bounty-67e2cf78a1bf03301545.js.map"
     ],
     "path---programs-program-a-report": [
       "path---programs-program-a-report-a53c52e31b802404a7ef.js",
@@ -255,8 +255,8 @@
       "path---programs-github-integration-1d0394367fb6ce6dbea5.js.map"
     ],
     "path---programs-gitlab-integration": [
-      "path---programs-gitlab-integration-16a5347e50907876f35d.js",
-      "path---programs-gitlab-integration-16a5347e50907876f35d.js.map"
+      "path---programs-gitlab-integration-f729839b4b2951927e88.js",
+      "path---programs-gitlab-integration-f729839b4b2951927e88.js.map"
     ],
     "path---programs-scope-best-practices": [
       "path---programs-scope-best-practices-478433551df026166c03.js",
@@ -271,14 +271,14 @@
       "path---programs-defining-scope-b93ff6493000d0914811.js.map"
     ],
     "app": [
-      "app-19becfa1a8d95b100978.js",
+      "app-cf90a491ab8a1b7b3ce8.js",
       "build-js-styles.css",
-      "app-19becfa1a8d95b100978.js.map",
+      "app-cf90a491ab8a1b7b3ce8.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-7fceb94e23e2583db61c.js",
-      "component---src-pages-programs-index-js-7fceb94e23e2583db61c.js.map"
+      "component---src-pages-programs-index-js-634ad8ae810515530b6c.js",
+      "component---src-pages-programs-index-js-634ad8ae810515530b6c.js.map"
     ],
     "path---programs-export-reports": [
       "path---programs-export-reports-6ca82e9229b89340937a.js",
@@ -295,6 +295,10 @@
     "path---programs-pausing-report-submissions": [
       "path---programs-pausing-report-submissions-4b0bb16ed8e84f2a7868.js",
       "path---programs-pausing-report-submissions-4b0bb16ed8e84f2a7868.js.map"
+    ],
+    "path---programs-two-factor-authentication": [
+      "path---programs-two-factor-authentication-cccee69a5abc00f239a3.js",
+      "path---programs-two-factor-authentication-cccee69a5abc00f239a3.js.map"
     ],
     "path---programs-private-vs-public": [
       "path---programs-private-vs-public-8ed4422f496e25106a5a.js",
@@ -325,8 +329,8 @@
       "path---programs-quality-reports-43827f2d89bbb62dffa1.js.map"
     ],
     "path---hackers": [
-      "path---hackers-5c68612346ee8bcb1d93.js",
-      "path---hackers-5c68612346ee8bcb1d93.js.map"
+      "path---hackers-1123c917f49a04fc630c.js",
+      "path---hackers-1123c917f49a04fc630c.js.map"
     ],
     "path---programs-supported-integrations": [
       "path---programs-supported-integrations-34e1c8146f0b05f5cb0e.js",
@@ -343,6 +347,10 @@
     "path---programs-asset-types": [
       "path---programs-asset-types-f116cda518923a9f29ca.js",
       "path---programs-asset-types-f116cda518923a9f29ca.js.map"
+    ],
+    "path---programs-freshdesk-integration": [
+      "path---programs-freshdesk-integration-865320e99bd25417d1c3.js",
+      "path---programs-freshdesk-integration-865320e99bd25417d1c3.js.map"
     ],
     "path---programs-submit-report-form": [
       "path---programs-submit-report-form-d6e54a01a4a28a08df28.js",
