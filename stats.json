@@ -132,6 +132,10 @@
       "path---hackers-public-disclosure-64fa5a74cb6684f10ab3.js",
       "path---hackers-public-disclosure-64fa5a74cb6684f10ab3.js.map"
     ],
+    "path---programs-automation": [
+      "path---programs-automation-069d47503ddf9c37244c.js",
+      "path---programs-automation-069d47503ddf9c37244c.js.map"
+    ],
     "path---programs-keyboard-shortcuts": [
       "path---programs-keyboard-shortcuts-1f084a1446e9a0ed47e2.js",
       "path---programs-keyboard-shortcuts-1f084a1446e9a0ed47e2.js.map"
@@ -189,8 +193,8 @@
       "path---hackers-report-states-e6f7e5ea66876341a57b.js.map"
     ],
     "path---programs-jira-server-integration": [
-      "path---programs-jira-server-integration-cd66a62f503c60c6222d.js",
-      "path---programs-jira-server-integration-cd66a62f503c60c6222d.js.map"
+      "path---programs-jira-server-integration-7071fa2b622cac0679ae.js",
+      "path---programs-jira-server-integration-7071fa2b622cac0679ae.js.map"
     ],
     "path---programs-create-custom-user-groups": [
       "path---programs-create-custom-user-groups-38ed4e489f5b3135aaf6.js",
@@ -257,9 +261,9 @@
       "path---programs-servicenow-integration-d85286ff6587ffc80ec8.js.map"
     ],
     "commons": [
-      "commons-298ce95a17629b67d93f.js",
+      "commons-a504afc27d24831392b8.js",
       "build-js-styles.css",
-      "commons-298ce95a17629b67d93f.js.map",
+      "commons-a504afc27d24831392b8.js.map",
       "build-js-styles.css.map"
     ],
     "path---hackers-quality-reports": [
@@ -287,8 +291,8 @@
       "path---programs-assembla-integration-d5c49255d1bb9f77b659.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-7e74399463a89f7aff47.js",
-      "component---src-templates-programs-js-7e74399463a89f7aff47.js.map"
+      "component---src-templates-programs-js-c2d177b6d0953ef09b50.js",
+      "component---src-templates-programs-js-c2d177b6d0953ef09b50.js.map"
     ],
     "path---programs-start-h-1-bounty": [
       "path---programs-start-h-1-bounty-ebf4485a0046add05619.js",
@@ -313,6 +317,10 @@
     "path---hackers-payments": [
       "path---hackers-payments-9ce286fcb59e5b1c58d6.js",
       "path---hackers-payments-9ce286fcb59e5b1c58d6.js.map"
+    ],
+    "path---programs-report-management": [
+      "path---programs-report-management-f93499f85873a9ce2090.js",
+      "path---programs-report-management-f93499f85873a9ce2090.js.map"
     ],
     "path---programs-github-integration": [
       "path---programs-github-integration-2ed85d59d3466b176844.js",
@@ -343,14 +351,14 @@
       "path---hackers-reputation-6e889fc5e7c2045edc5f.js.map"
     ],
     "app": [
-      "app-94e6419556dc284d1b09.js",
+      "app-e4c6a980118224fd48e5.js",
       "build-js-styles.css",
-      "app-94e6419556dc284d1b09.js.map",
+      "app-e4c6a980118224fd48e5.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-9986761d1f8a03f86e30.js",
-      "component---src-pages-programs-index-js-9986761d1f8a03f86e30.js.map"
+      "component---src-pages-programs-index-js-95f245201756ecbf3f44.js",
+      "component---src-pages-programs-index-js-95f245201756ecbf3f44.js.map"
     ],
     "path---programs-export-reports": [
       "path---programs-export-reports-6ca82e9229b89340937a.js",

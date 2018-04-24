@@ -1,0 +1,2 @@
+webpackJsonp([0xbd976dedc743],{450:function(t,r){t.exports={data:{markdownRemark:{html:"<p>Hackers submit vulnerabilities to your program through submitting reports. You can manage all incoming reports through your Inbox. </p>",frontmatter:{path:"/programs/report-management",title:"Report Management"}}},pathContext:{}}}});
+//# sourceMappingURL=path---programs-report-management-f93499f85873a9ce2090.js.map
