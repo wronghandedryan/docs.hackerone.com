@@ -45,8 +45,12 @@
       "path---programs-policy-and-scope-dc1a2d908a9bf1f5dcc1.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-c3b273f017a86ef2808a.js",
-      "component---src-pages-index-js-c3b273f017a86ef2808a.js.map"
+      "component---src-pages-index-js-5a03b810974fadbc8feb.js",
+      "component---src-pages-index-js-5a03b810974fadbc8feb.js.map"
+    ],
+    "path---hackers-submitting-reports": [
+      "path---hackers-submitting-reports-1def0999e2d9e929ecab.js",
+      "path---hackers-submitting-reports-1def0999e2d9e929ecab.js.map"
     ],
     "path---hackers-manage-notifications": [
       "path---hackers-manage-notifications-9e2bd0f2af5c4fb4e432.js",
@@ -112,6 +116,10 @@
       "path---programs-mantisbt-integration-87cc5fbddd500220e688.js",
       "path---programs-mantisbt-integration-87cc5fbddd500220e688.js.map"
     ],
+    "path---programs-report-actions": [
+      "path---programs-report-actions-cf33228a7b31b2141722.js",
+      "path---programs-report-actions-cf33228a7b31b2141722.js.map"
+    ],
     "path---programs-locking-reports": [
       "path---programs-locking-reports-cca89cd5ac023b27b409.js",
       "path---programs-locking-reports-cca89cd5ac023b27b409.js.map"
@@ -125,12 +133,16 @@
       "path---programs-setting-response-slas-10deba64f4e62426ac3d.js.map"
     ],
     "component---src-templates-hackers-js": [
-      "component---src-templates-hackers-js-746c694a90ee1a609989.js",
-      "component---src-templates-hackers-js-746c694a90ee1a609989.js.map"
+      "component---src-templates-hackers-js-bb18412ca0be8c466759.js",
+      "component---src-templates-hackers-js-bb18412ca0be8c466759.js.map"
     ],
     "path---hackers-public-disclosure": [
-      "path---hackers-public-disclosure-64fa5a74cb6684f10ab3.js",
-      "path---hackers-public-disclosure-64fa5a74cb6684f10ab3.js.map"
+      "path---hackers-public-disclosure-460a36617de3445f5722.js",
+      "path---hackers-public-disclosure-460a36617de3445f5722.js.map"
+    ],
+    "path---programs-hacker-reviews": [
+      "path---programs-hacker-reviews-56de9ef3705241543a66.js",
+      "path---programs-hacker-reviews-56de9ef3705241543a66.js.map"
     ],
     "path---programs-automation": [
       "path---programs-automation-069d47503ddf9c37244c.js",
@@ -217,8 +229,8 @@
       "path---hackers-restricted-from-submissions-0a26174959e8c7f15fc3.js.map"
     ],
     "component---src-pages-hackers-index-js": [
-      "component---src-pages-hackers-index-js-a3d2d2bc7b317804c9be.js",
-      "component---src-pages-hackers-index-js-a3d2d2bc7b317804c9be.js.map"
+      "component---src-pages-hackers-index-js-22342c2a5a2a97325b99.js",
+      "component---src-pages-hackers-index-js-22342c2a5a2a97325b99.js.map"
     ],
     "path---programs-overview": [
       "path---programs-overview-0d8c682d5938e9dcd8c8.js",
@@ -291,8 +303,8 @@
       "path---programs-assembla-integration-d5c49255d1bb9f77b659.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-72e0a92b0be3d4cced74.js",
-      "component---src-templates-programs-js-72e0a92b0be3d4cced74.js.map"
+      "component---src-templates-programs-js-7e9e12b3a18709a3543f.js",
+      "component---src-templates-programs-js-7e9e12b3a18709a3543f.js.map"
     ],
     "path---programs-start-h-1-bounty": [
       "path---programs-start-h-1-bounty-ebf4485a0046add05619.js",
@@ -301,10 +313,6 @@
     "path---changelog-2018-march": [
       "path---changelog-2018-march-37db7caaea63c86cec7b.js",
       "path---changelog-2018-march-37db7caaea63c86cec7b.js.map"
-    ],
-    "path---programs-program-a-report": [
-      "path---programs-program-a-report-a53c52e31b802404a7ef.js",
-      "path---programs-program-a-report-a53c52e31b802404a7ef.js.map"
     ],
     "path---hackers-severity": [
       "path---hackers-severity-cadc01d1693280462135.js",
@@ -325,6 +333,10 @@
     "path---programs-github-integration": [
       "path---programs-github-integration-2ed85d59d3466b176844.js",
       "path---programs-github-integration-2ed85d59d3466b176844.js.map"
+    ],
+    "path---programs-report-templates": [
+      "path---programs-report-templates-cb91d7a9a87dc670c1fa.js",
+      "path---programs-report-templates-cb91d7a9a87dc670c1fa.js.map"
     ],
     "path---programs-gitlab-integration": [
       "path---programs-gitlab-integration-e532f92f74be17cf9874.js",
@@ -351,14 +363,14 @@
       "path---hackers-reputation-6e889fc5e7c2045edc5f.js.map"
     ],
     "app": [
-      "app-e4c6a980118224fd48e5.js",
+      "app-b1ef4c84743887c77afa.js",
       "build-js-styles.css",
-      "app-e4c6a980118224fd48e5.js.map",
+      "app-b1ef4c84743887c77afa.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-9ed6f5f73cc10395282d.js",
-      "component---src-pages-programs-index-js-9ed6f5f73cc10395282d.js.map"
+      "component---src-pages-programs-index-js-1c3ba121cc9b00b84204.js",
+      "component---src-pages-programs-index-js-1c3ba121cc9b00b84204.js.map"
     ],
     "path---programs-export-reports": [
       "path---programs-export-reports-6ca82e9229b89340937a.js",
