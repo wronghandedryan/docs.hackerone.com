@@ -1,2 +1,0 @@
-webpackJsonp([5386986382118],{378:function(t,a){t.exports={data:{markdownRemark:{html:"",frontmatter:{date:null,path:"/docs/navigation-overview/inbox",title:"Inbox"}}},pathContext:{}}}});
-//# sourceMappingURL=path---docs-navigation-overview-inbox-a0c8f101b84bf1adb997.js.map

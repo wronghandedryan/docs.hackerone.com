@@ -1,2 +1,0 @@
-webpackJsonp([24067288212449],{369:function(t,o){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{path:"/docs/hackers/choosing-program-invitations",title:"Choosing Program Invitations"}}},pathContext:{}}}});
-//# sourceMappingURL=path---docs-hackers-choosing-program-invitations-385c550edce90c795894.js.map

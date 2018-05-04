@@ -1,2 +1,0 @@
-webpackJsonp([0xdc66a94d1ec4],{380:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/payment-and-billing/acceptable-payment-methods",title:"Acceptable Payment Methods"}}},pathContext:{}}}});
-//# sourceMappingURL=path---docs-payment-and-billing-acceptable-payment-methods-dda7d5f9f73272fa3047.js.map
