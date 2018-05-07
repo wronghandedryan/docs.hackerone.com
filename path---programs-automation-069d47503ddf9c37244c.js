@@ -1,2 +1,0 @@
-webpackJsonp([90822073020346],{423:function(t,o){t.exports={data:{markdownRemark:{html:"<p>HackerOne offers various automated features to simplify your workflow. You can configure:</p>\n<ul>\n<li>Default common responses to reports</li>\n<li>Triggers that'll automate an action</li>\n<li>Integrations with other third party services </li>\n<li>Hackbot notifications</li>\n</ul>",frontmatter:{path:"/programs/automation",title:"Automation"}}},pathContext:{}}}});
-//# sourceMappingURL=path---programs-automation-069d47503ddf9c37244c.js.map

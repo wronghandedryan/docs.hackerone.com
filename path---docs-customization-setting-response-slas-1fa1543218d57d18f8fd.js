@@ -1,2 +1,0 @@
-webpackJsonp([40755503390787],{406:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/customization/setting-response-slas",title:"Setting Response SLAs"}}},pathContext:{}}}});
-//# sourceMappingURL=path---docs-customization-setting-response-slas-1fa1543218d57d18f8fd.js.map
