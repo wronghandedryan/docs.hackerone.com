@@ -220,6 +220,10 @@
       "path---programs-start-h-1-bounty-html-a6879abe73bdebcbaab3.js",
       "path---programs-start-h-1-bounty-html-a6879abe73bdebcbaab3.js.map"
     ],
+    "path---programs-groups-and-permissions-html": [
+      "path---programs-groups-and-permissions-html-2a3a1f832407d90682d4.js",
+      "path---programs-groups-and-permissions-html-2a3a1f832407d90682d4.js.map"
+    ],
     "component---src-pages-hackers-index-js": [
       "component---src-pages-hackers-index-js-9b28e002a9dbc5931bd0.js",
       "component---src-pages-hackers-index-js-9b28e002a9dbc5931bd0.js.map"
@@ -259,10 +263,6 @@
     "path---programs-communicating-with-hackers-html": [
       "path---programs-communicating-with-hackers-html-3831815259ba9ba736fb.js",
       "path---programs-communicating-with-hackers-html-3831815259ba9ba736fb.js.map"
-    ],
-    "path---programs-create-custom-user-groups-html": [
-      "path---programs-create-custom-user-groups-html-5d394555efa4bd983d18.js",
-      "path---programs-create-custom-user-groups-html-5d394555efa4bd983d18.js.map"
     ],
     "path---hackers-examples-of-misconduct-html": [
       "path---hackers-examples-of-misconduct-html-6e90eb540f5b6232c3ce.js",
@@ -347,8 +347,8 @@
       "path---programs-completing-your-security-page-html-def7b1842ce3b6d464db.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-104fc7b4b5d5822c40a2.js",
-      "component---src-templates-programs-js-104fc7b4b5d5822c40a2.js.map"
+      "component---src-templates-programs-js-89af42ef3f79356af8a2.js",
+      "component---src-templates-programs-js-89af42ef3f79356af8a2.js.map"
     ],
     "path---programs-html": [
       "path---programs-html-c8135ac880033c99d4ee.js",
@@ -411,14 +411,14 @@
       "path---programs-hacktivity-html-d57ff38fae84fcb9c253.js.map"
     ],
     "app": [
-      "app-896c332648f783741e1c.js",
+      "app-b4a8ff8e8129a03b2671.js",
       "build-js-styles.css",
-      "app-896c332648f783741e1c.js.map",
+      "app-b4a8ff8e8129a03b2671.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-95baee85f06190f1c659.js",
-      "component---src-pages-programs-index-js-95baee85f06190f1c659.js.map"
+      "component---src-pages-programs-index-js-2fedddc6bab669ab7169.js",
+      "component---src-pages-programs-index-js-2fedddc6bab669ab7169.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-c081d6eb1d83b949e687.js",
