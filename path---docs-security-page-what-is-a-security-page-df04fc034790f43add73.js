@@ -1,0 +1,2 @@
+webpackJsonp([0xbcd47845ae7f],{402:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{path:"/docs/security-page/what-is-a-security-page",title:"What is a Security Page"}}},pathContext:{}}}});
+//# sourceMappingURL=path---docs-security-page-what-is-a-security-page-df04fc034790f43add73.js.map

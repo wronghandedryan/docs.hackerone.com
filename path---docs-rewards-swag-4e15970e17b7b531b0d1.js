@@ -1,2 +1,2 @@
-webpackJsonp([0xd983efd88f27],{419:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:null,path:"/docs/rewards/swag",title:"Swag"}}},pathContext:{}}}});
+webpackJsonp([0xd983efd88f27],{397:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:null,path:"/docs/rewards/swag",title:"Swag"}}},pathContext:{}}}});
 //# sourceMappingURL=path---docs-rewards-swag-4e15970e17b7b531b0d1.js.map
