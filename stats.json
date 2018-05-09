@@ -48,6 +48,10 @@
       "path---programs-swag-html-0bba078f6db7269bc3d8.js",
       "path---programs-swag-html-0bba078f6db7269bc3d8.js.map"
     ],
+    "path---changelog-2018-april": [
+      "path---changelog-2018-april-7bd362e9c076c3e70a2f.js",
+      "path---changelog-2018-april-7bd362e9c076c3e70a2f.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-875117cd66f9c8290cb4.js",
       "component---src-pages-index-js-875117cd66f9c8290cb4.js.map"
@@ -181,8 +185,8 @@
       "component---src-templates-changelog-js-32b33d180d8c07eb681d.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-0db705d2d2fc2aec9502.js",
-      "component---src-layouts-index-js-0db705d2d2fc2aec9502.js.map"
+      "component---src-layouts-index-js-e6741a5f3ff31ca8e77c.js",
+      "component---src-layouts-index-js-e6741a5f3ff31ca8e77c.js.map"
     ],
     "path---hackers-quality-reports-html": [
       "path---hackers-quality-reports-html-d932798def315381f564.js",
@@ -285,9 +289,9 @@
       "path---programs-two-factor-authentication-html-a53032aac054bad6e5cb.js.map"
     ],
     "commons": [
-      "commons-615e23a99787cba8ee2c.js",
+      "commons-ad2505b3619d25408970.js",
       "build-js-styles.css",
-      "commons-615e23a99787cba8ee2c.js.map",
+      "commons-ad2505b3619d25408970.js.map",
       "build-js-styles.css.map"
     ],
     "path---hackers-reputation-html": [
@@ -403,17 +407,17 @@
       "path---programs-report-management-html-b913a0174272363cd6b7.js.map"
     ],
     "path---changelog": [
-      "path---changelog-c91dc67f3e07a4e8d55a.js",
-      "path---changelog-c91dc67f3e07a4e8d55a.js.map"
+      "path---changelog-18ca47e14ec0363c6bd8.js",
+      "path---changelog-18ca47e14ec0363c6bd8.js.map"
     ],
     "path---programs-hacktivity-html": [
       "path---programs-hacktivity-html-d57ff38fae84fcb9c253.js",
       "path---programs-hacktivity-html-d57ff38fae84fcb9c253.js.map"
     ],
     "app": [
-      "app-42f95fa9bc88c73bff7b.js",
+      "app-1936b9c308a49c9f02f3.js",
       "build-js-styles.css",
-      "app-42f95fa9bc88c73bff7b.js.map",
+      "app-1936b9c308a49c9f02f3.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
