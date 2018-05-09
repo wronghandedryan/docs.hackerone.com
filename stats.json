@@ -60,9 +60,17 @@
       "path---programs-bonuses-html-eb1efa34b9a6b46e1ff3.js",
       "path---programs-bonuses-html-eb1efa34b9a6b46e1ff3.js.map"
     ],
+    "path---programs-response-targets-html": [
+      "path---programs-response-targets-html-bbba8ad6f440d73593dd.js",
+      "path---programs-response-targets-html-bbba8ad6f440d73593dd.js.map"
+    ],
     "path---programs-policy-and-scope-html": [
       "path---programs-policy-and-scope-html-022027383cba421717fb.js",
       "path---programs-policy-and-scope-html-022027383cba421717fb.js.map"
+    ],
+    "path---programs-setting-response-targets-html": [
+      "path---programs-setting-response-targets-html-55ed08d72b1856cbea28.js",
+      "path---programs-setting-response-targets-html-55ed08d72b1856cbea28.js.map"
     ],
     "path---programs-keyboard-shortcuts-html": [
       "path---programs-keyboard-shortcuts-html-737249c545c0a004f6ac.js",
@@ -119,10 +127,6 @@
     "path---programs-program-metrics-html": [
       "path---programs-program-metrics-html-b073e4b15542632891ee.js",
       "path---programs-program-metrics-html-b073e4b15542632891ee.js.map"
-    ],
-    "path---programs-response-sla-metrics-html": [
-      "path---programs-response-sla-metrics-html-e81d5ec390bab1a7385d.js",
-      "path---programs-response-sla-metrics-html-e81d5ec390bab1a7385d.js.map"
     ],
     "path---programs-asset-types-html": [
       "path---programs-asset-types-html-37670fde74ea8775fbbd.js",
@@ -200,10 +204,6 @@
       "path---programs-common-responses-html-83fa732fd6c8fa5e8734.js",
       "path---programs-common-responses-html-83fa732fd6c8fa5e8734.js.map"
     ],
-    "path---programs-response-sla-html": [
-      "path---programs-response-sla-html-6c2b366b4600119b329a.js",
-      "path---programs-response-sla-html-6c2b366b4600119b329a.js.map"
-    ],
     "path---programs-directory-html": [
       "path---programs-directory-html-48039c678d70f3bb53eb.js",
       "path---programs-directory-html-48039c678d70f3bb53eb.js.map"
@@ -243,10 +243,6 @@
     "path---hackers-hacker-101-html": [
       "path---hackers-hacker-101-html-e9b140f75b647d2cf814.js",
       "path---hackers-hacker-101-html-e9b140f75b647d2cf814.js.map"
-    ],
-    "path---programs-setting-response-slas-html": [
-      "path---programs-setting-response-slas-html-e3689aeff8e26add9bcc.js",
-      "path---programs-setting-response-slas-html-e3689aeff8e26add9bcc.js.map"
     ],
     "path---programs-jira-cloud-integration-html": [
       "path---programs-jira-cloud-integration-html-2631af092089de5b8b40.js",
@@ -351,8 +347,8 @@
       "path---programs-completing-your-security-page-html-def7b1842ce3b6d464db.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-89af42ef3f79356af8a2.js",
-      "component---src-templates-programs-js-89af42ef3f79356af8a2.js.map"
+      "component---src-templates-programs-js-351373ff86c06a25240c.js",
+      "component---src-templates-programs-js-351373ff86c06a25240c.js.map"
     ],
     "path---programs-html": [
       "path---programs-html-9493ae560aed668813e8.js",
@@ -415,18 +411,22 @@
       "path---programs-hacktivity-html-d57ff38fae84fcb9c253.js.map"
     ],
     "app": [
-      "app-1936b9c308a49c9f02f3.js",
+      "app-29d0b0c8d185b2d97ed5.js",
       "build-js-styles.css",
-      "app-1936b9c308a49c9f02f3.js.map",
+      "app-29d0b0c8d185b2d97ed5.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-2fedddc6bab669ab7169.js",
-      "component---src-pages-programs-index-js-2fedddc6bab669ab7169.js.map"
+      "component---src-pages-programs-index-js-76a911b456de16854ca5.js",
+      "component---src-pages-programs-index-js-76a911b456de16854ca5.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-09be440bb706a398d490.js",
       "path---programs-using-markdown-html-09be440bb706a398d490.js.map"
+    ],
+    "path---programs-response-target-metrics-html": [
+      "path---programs-response-target-metrics-html-ce2a63688a34c8cb50e3.js",
+      "path---programs-response-target-metrics-html-ce2a63688a34c8cb50e3.js.map"
     ],
     "path---programs-set-up-ip-whitelisting-html": [
       "path---programs-set-up-ip-whitelisting-html-a56abcf63557be52456f.js",
