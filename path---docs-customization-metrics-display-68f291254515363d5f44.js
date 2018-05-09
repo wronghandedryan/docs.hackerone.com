@@ -1,0 +1,2 @@
+webpackJsonp([0x86874f4962ab],{398:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/customization/metrics-display",title:"Metrics Display"}}},pathContext:{}}}});
+//# sourceMappingURL=path---docs-customization-metrics-display-68f291254515363d5f44.js.map

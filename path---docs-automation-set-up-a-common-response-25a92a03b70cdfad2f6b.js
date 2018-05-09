@@ -1,0 +1,2 @@
+webpackJsonp([0xddc2490cc74d],{382:function(t,o){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/automation/set-up-a-common-response",title:"Set Up a Common Response"}}},pathContext:{}}}});
+//# sourceMappingURL=path---docs-automation-set-up-a-common-response-25a92a03b70cdfad2f6b.js.map
