@@ -33,8 +33,8 @@
       "path---hackers-submitting-reports-html-2544125703647d09fe5d.js.map"
     ],
     "path---programs": [
-      "path---programs-47b538d99d38ca87b261.js",
-      "path---programs-47b538d99d38ca87b261.js.map"
+      "path---programs-665dab4138ca4bc17632.js",
+      "path---programs-665dab4138ca4bc17632.js.map"
     ],
     "path---programs-severity-html": [
       "path---programs-severity-html-efe87043084e44cd71b5.js",
@@ -61,16 +61,16 @@
       "path---programs-bonuses-html-eb1efa34b9a6b46e1ff3.js.map"
     ],
     "path---programs-response-targets-html": [
-      "path---programs-response-targets-html-bbba8ad6f440d73593dd.js",
-      "path---programs-response-targets-html-bbba8ad6f440d73593dd.js.map"
+      "path---programs-response-targets-html-4ff10b62720cdbbb65cc.js",
+      "path---programs-response-targets-html-4ff10b62720cdbbb65cc.js.map"
     ],
     "path---programs-policy-and-scope-html": [
       "path---programs-policy-and-scope-html-022027383cba421717fb.js",
       "path---programs-policy-and-scope-html-022027383cba421717fb.js.map"
     ],
     "path---programs-setting-response-targets-html": [
-      "path---programs-setting-response-targets-html-14e872735f648309b48a.js",
-      "path---programs-setting-response-targets-html-14e872735f648309b48a.js.map"
+      "path---programs-setting-response-targets-html-31b311ec30ad0247d3c3.js",
+      "path---programs-setting-response-targets-html-31b311ec30ad0247d3c3.js.map"
     ],
     "path---programs-keyboard-shortcuts-html": [
       "path---programs-keyboard-shortcuts-html-737249c545c0a004f6ac.js",
@@ -148,6 +148,10 @@
       "path---programs-duplicate-reports-html-4ee8a2252aa7ffcbea17.js",
       "path---programs-duplicate-reports-html-4ee8a2252aa7ffcbea17.js.map"
     ],
+    "path---programs-edit-the-doc-site-html": [
+      "path---programs-edit-the-doc-site-html-1a224be8440b85e52cce.js",
+      "path---programs-edit-the-doc-site-html-1a224be8440b85e52cce.js.map"
+    ],
     "path---programs-defining-scope-html": [
       "path---programs-defining-scope-html-426a763f3d97c481606a.js",
       "path---programs-defining-scope-html-426a763f3d97c481606a.js.map"
@@ -197,8 +201,8 @@
       "path---hackers-quality-reports-html-d932798def315381f564.js.map"
     ],
     "path---programs-private-vs-public-html": [
-      "path---programs-private-vs-public-html-078e439e13fdf3d4a2ac.js",
-      "path---programs-private-vs-public-html-078e439e13fdf3d4a2ac.js.map"
+      "path---programs-private-vs-public-html-49ae8a0259a389a52d7d.js",
+      "path---programs-private-vs-public-html-49ae8a0259a389a52d7d.js.map"
     ],
     "path---programs-common-responses-html": [
       "path---programs-common-responses-html-83fa732fd6c8fa5e8734.js",
@@ -277,8 +281,8 @@
       "path---hackers-the-90-day-leaderboard-html-cc62b2ef8c396fcdfb1f.js.map"
     ],
     "path---programs-program-start-up-guide-html": [
-      "path---programs-program-start-up-guide-html-9d0da009aec70726a87e.js",
-      "path---programs-program-start-up-guide-html-9d0da009aec70726a87e.js.map"
+      "path---programs-program-start-up-guide-html-2f19489c40a616243d32.js",
+      "path---programs-program-start-up-guide-html-2f19489c40a616243d32.js.map"
     ],
     "path---programs-two-factor-authentication-html": [
       "path---programs-two-factor-authentication-html-a53032aac054bad6e5cb.js",
@@ -347,12 +351,12 @@
       "path---programs-completing-your-security-page-html-def7b1842ce3b6d464db.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-d8c6ae8ff0dd52834c7a.js",
-      "component---src-templates-programs-js-d8c6ae8ff0dd52834c7a.js.map"
+      "component---src-templates-programs-js-7132ae7830dc91b0dbfc.js",
+      "component---src-templates-programs-js-7132ae7830dc91b0dbfc.js.map"
     ],
     "path---programs-html": [
-      "path---programs-html-9493ae560aed668813e8.js",
-      "path---programs-html-9493ae560aed668813e8.js.map"
+      "path---programs-html-256f43e7671caa11dd94.js",
+      "path---programs-html-256f43e7671caa11dd94.js.map"
     ],
     "path---changelog-2018-march": [
       "path---changelog-2018-march-9b2f3cbe8ff290d6aa33.js",
@@ -411,22 +415,22 @@
       "path---programs-hacktivity-html-d57ff38fae84fcb9c253.js.map"
     ],
     "app": [
-      "app-29d0b0c8d185b2d97ed5.js",
+      "app-98c856c44c60e914dcc8.js",
       "build-js-styles.css",
-      "app-29d0b0c8d185b2d97ed5.js.map",
+      "app-98c856c44c60e914dcc8.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-4fd443d89fb6175ab81a.js",
-      "component---src-pages-programs-index-js-4fd443d89fb6175ab81a.js.map"
+      "component---src-pages-programs-index-js-75ad014f3a63fcf6cd95.js",
+      "component---src-pages-programs-index-js-75ad014f3a63fcf6cd95.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-09be440bb706a398d490.js",
       "path---programs-using-markdown-html-09be440bb706a398d490.js.map"
     ],
     "path---programs-response-target-metrics-html": [
-      "path---programs-response-target-metrics-html-ce2a63688a34c8cb50e3.js",
-      "path---programs-response-target-metrics-html-ce2a63688a34c8cb50e3.js.map"
+      "path---programs-response-target-metrics-html-eaf09c83d4d1e7aa2417.js",
+      "path---programs-response-target-metrics-html-eaf09c83d4d1e7aa2417.js.map"
     ],
     "path---programs-set-up-ip-whitelisting-html": [
       "path---programs-set-up-ip-whitelisting-html-a56abcf63557be52456f.js",
