@@ -1,2 +1,0 @@
-webpackJsonp([0x70545c7d0b66],{374:function(t,o){t.exports={data:{markdownRemark:{html:"",frontmatter:{path:"/docs/navigation-overview/directory",title:"Directory"}}},pathContext:{}}}});
-//# sourceMappingURL=path---docs-navigation-overview-directory-94a39d660560943da5a4.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([86061603059188],{395:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/customization/email-notifications",title:"Email Notifications"}}},pathContext:{}}}});
-//# sourceMappingURL=path---docs-customization-email-notifications-4cf0fd38523c2492e7eb.js.map
