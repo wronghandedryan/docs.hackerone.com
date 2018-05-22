@@ -1,2 +1,0 @@
-webpackJsonp([0xab0f104bffe0],{489:function(t,e){t.exports={data:{markdownRemark:{html:"<p>The <strong>Hackers thanked</strong> section represents the number of unique hackers that have sent in a report that ended up getting resolved. It's a helpful statistic about how many hackers have successfully participated in your program. </p>",frontmatter:{path:"/programs/thanks",title:"Thanks"}}},pathContext:{}}}});
-//# sourceMappingURL=path---programs-thanks-0d6cd4b3c191491a9c36.js.map
