@@ -224,10 +224,6 @@
       "path---programs-submit-report-form-html-78596480e939374e5978.js",
       "path---programs-submit-report-form-html-78596480e939374e5978.js.map"
     ],
-    "path---hackers-access-to-private-programs-html": [
-      "path---hackers-access-to-private-programs-html-c811cde5e5afeab144c1.js",
-      "path---hackers-access-to-private-programs-html-c811cde5e5afeab144c1.js.map"
-    ],
     "path---programs-single-sign-on-sso-via-saml-html": [
       "path---programs-single-sign-on-sso-via-saml-html-2b940619ff439ad353d9.js",
       "path---programs-single-sign-on-sso-via-saml-html-2b940619ff439ad353d9.js.map"
@@ -431,9 +427,9 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-e1cb3fd60bc5e8e48028.js",
+      "app-0ad3860aee3e94569578.js",
       "build-js-styles.css",
-      "app-e1cb3fd60bc5e8e48028.js.map",
+      "app-0ad3860aee3e94569578.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
