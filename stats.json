@@ -249,8 +249,8 @@
       "path---hackers-hacker-101-html-e074a6e60fc895ae957e.js.map"
     ],
     "path---programs-jira-cloud-integration-html": [
-      "path---programs-jira-cloud-integration-html-236db939d7282b192861.js",
-      "path---programs-jira-cloud-integration-html-236db939d7282b192861.js.map"
+      "path---programs-jira-cloud-integration-html-077e538f1aa72e182543.js",
+      "path---programs-jira-cloud-integration-html-077e538f1aa72e182543.js.map"
     ],
     "path---hackers-keyboard-shortcuts-html": [
       "path---hackers-keyboard-shortcuts-html-6375156134bde70ab27b.js",
@@ -293,6 +293,10 @@
       "build-js-styles.css",
       "commons-3b0e5b6e63169059a2fa.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---programs-hackbot-html": [
+      "path---programs-hackbot-html-62288400d43b9f0b09df.js",
+      "path---programs-hackbot-html-62288400d43b9f0b09df.js.map"
     ],
     "path---hackers-reputation-html": [
       "path---hackers-reputation-html-e27738b47d685a30bc27.js",
@@ -351,8 +355,8 @@
       "path---programs-completing-your-security-page-html-916b455c3c1d6dbcb671.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-488e50e60f073e0f6c31.js",
-      "component---src-templates-programs-js-488e50e60f073e0f6c31.js.map"
+      "component---src-templates-programs-js-8b38ab2bd4d5c43a8b13.js",
+      "component---src-templates-programs-js-8b38ab2bd4d5c43a8b13.js.map"
     ],
     "path---programs-html": [
       "path---programs-html-4ab7a4a465fa415bf161.js",
@@ -419,14 +423,14 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-c3350cfe0a6a1cb7dcce.js",
+      "app-aa2e8fc7d275f3462756.js",
       "build-js-styles.css",
-      "app-c3350cfe0a6a1cb7dcce.js.map",
+      "app-aa2e8fc7d275f3462756.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-d3614c185763febb0815.js",
-      "component---src-pages-programs-index-js-d3614c185763febb0815.js.map"
+      "component---src-pages-programs-index-js-4e3353a96ad49879e31c.js",
+      "component---src-pages-programs-index-js-4e3353a96ad49879e31c.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-00d3003d010c7c8680d9.js",
