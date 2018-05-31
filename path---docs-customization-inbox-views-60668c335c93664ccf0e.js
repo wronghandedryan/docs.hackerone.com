@@ -1,2 +1,0 @@
-webpackJsonp([0x691bc150cb61],{398:function(t,o){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{date:"February 14, 2018",path:"/docs/customization/inbox-views",title:"Inbox Views"}}},pathContext:{}}}});
-//# sourceMappingURL=path---docs-customization-inbox-views-60668c335c93664ccf0e.js.map

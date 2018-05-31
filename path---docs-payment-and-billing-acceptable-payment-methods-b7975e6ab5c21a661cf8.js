@@ -1,2 +1,0 @@
-webpackJsonp([0xdc66a94d1ec4],{379:function(t,e){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{path:"/docs/payment-and-billing/acceptable-payment-methods",title:"Acceptable Payment Methods"}}},pathContext:{}}}});
-//# sourceMappingURL=path---docs-payment-and-billing-acceptable-payment-methods-b7975e6ab5c21a661cf8.js.map

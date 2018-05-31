@@ -1,2 +1,0 @@
-webpackJsonp([63028316600217],{369:function(t,e){t.exports={data:{markdownRemark:{html:'<p>Overarching description of what policy scope is - would need to write new content for this.</p>\n<p><img src="./images/security-page.png" alt="Security page"></p>',frontmatter:{path:"/docs/customization/policy-and-scope",title:"Policy and scope"}}},pathContext:{}}}});
-//# sourceMappingURL=path---docs-customization-policy-and-scope-6b66f3016a0de1f4310e.js.map
