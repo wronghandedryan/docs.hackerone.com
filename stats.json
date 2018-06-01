@@ -411,8 +411,8 @@
       "path---programs-report-management-html-6c9467126e42bb312106.js.map"
     ],
     "path---changelog": [
-      "path---changelog-6b9b9e9bed58d5dddab4.js",
-      "path---changelog-6b9b9e9bed58d5dddab4.js.map"
+      "path---changelog-7819f3e0a3c2303be206.js",
+      "path---changelog-7819f3e0a3c2303be206.js.map"
     ],
     "path---hackers-hacker-start-up-guide-html": [
       "path---hackers-hacker-start-up-guide-html-87fc4e2ddda379a0f927.js",
@@ -423,9 +423,9 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-aa2e8fc7d275f3462756.js",
+      "app-6e2f94abd6f4442668df.js",
       "build-js-styles.css",
-      "app-aa2e8fc7d275f3462756.js.map",
+      "app-6e2f94abd6f4442668df.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
@@ -491,6 +491,10 @@
     "path---hackers": [
       "path---hackers-fe6aadcbf13d02a1fbd1.js",
       "path---hackers-fe6aadcbf13d02a1fbd1.js.map"
+    ],
+    "path---changelog-2018-may": [
+      "path---changelog-2018-may-d9aa41aa29c2221a15a1.js",
+      "path---changelog-2018-may-d9aa41aa29c2221a15a1.js.map"
     ],
     "path---programs-report-actions-html": [
       "path---programs-report-actions-html-940189b6ba924689d6ce.js",
