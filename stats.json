@@ -165,8 +165,8 @@
       "path---programs-edit-the-doc-site-html-de622551305caae667be.js.map"
     ],
     "path---programs-defining-scope-html": [
-      "path---programs-defining-scope-html-deda2ba5c71e0eb4d95e.js",
-      "path---programs-defining-scope-html-deda2ba5c71e0eb4d95e.js.map"
+      "path---programs-defining-scope-html-efa4c3288175fc64514b.js",
+      "path---programs-defining-scope-html-efa4c3288175fc64514b.js.map"
     ],
     "path---programs-disclosure-assistance-html": [
       "path---programs-disclosure-assistance-html-74b961980a72319b2e57.js",
@@ -399,8 +399,8 @@
       "path---programs-human-augmented-signal-html-b118b9bf9cd0e06ca135.js.map"
     ],
     "path---hackers-directory-html": [
-      "path---hackers-directory-html-42e262ca7d48deea77e0.js",
-      "path---hackers-directory-html-42e262ca7d48deea77e0.js.map"
+      "path---hackers-directory-html-746039d0a73685ffbcfa.js",
+      "path---hackers-directory-html-746039d0a73685ffbcfa.js.map"
     ],
     "path---hackers-report-actions-html": [
       "path---hackers-report-actions-html-b29cceef6320e86ff32b.js",
@@ -423,9 +423,9 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-1ffcc8278b98d6ddba5d.js",
+      "app-6e2f94abd6f4442668df.js",
       "build-js-styles.css",
-      "app-1ffcc8278b98d6ddba5d.js.map",
+      "app-6e2f94abd6f4442668df.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
