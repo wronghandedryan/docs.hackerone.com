@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---hackers-severity-html": [
-      "path---hackers-severity-html-73958861dace5d9dfb3a.js",
-      "path---hackers-severity-html-73958861dace5d9dfb3a.js.map"
+      "path---hackers-severity-html-34cf8eddfdd385a1fc19.js",
+      "path---hackers-severity-html-34cf8eddfdd385a1fc19.js.map"
     ],
     "path---programs-thanks-html": [
       "path---programs-thanks-html-486067ba02fba93acb63.js",
@@ -41,8 +41,8 @@
       "path---programs-9889b4bb8d4b4d6be48d.js.map"
     ],
     "path---programs-severity-html": [
-      "path---programs-severity-html-c4ecbe9e5401bf055876.js",
-      "path---programs-severity-html-c4ecbe9e5401bf055876.js.map"
+      "path---programs-severity-html-ae32ded9ed71ce05360c.js",
+      "path---programs-severity-html-ae32ded9ed71ce05360c.js.map"
     ],
     "path---hackers-public-disclosure-html": [
       "path---hackers-public-disclosure-html-e4867bbcb0b1de0e344e.js",
@@ -101,20 +101,20 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---programs-locking-reports-html": [
-      "path---programs-locking-reports-html-2c7720b69d7f97238a14.js",
-      "path---programs-locking-reports-html-2c7720b69d7f97238a14.js.map"
+      "path---programs-locking-reports-html-f7ab67cdcedd3d87d966.js",
+      "path---programs-locking-reports-html-f7ab67cdcedd3d87d966.js.map"
     ],
     "path---hackers-report-states-html": [
-      "path---hackers-report-states-html-4771e1e93c30fabccced.js",
-      "path---hackers-report-states-html-4771e1e93c30fabccced.js.map"
+      "path---hackers-report-states-html-82ce182efa451367c1b2.js",
+      "path---hackers-report-states-html-82ce182efa451367c1b2.js.map"
     ],
     "component---src-pages-changelog-index-js": [
       "component---src-pages-changelog-index-js-6c064bcf55b61105c33d.js",
       "component---src-pages-changelog-index-js-6c064bcf55b61105c33d.js.map"
     ],
     "path---hackers-invitations-html": [
-      "path---hackers-invitations-html-1cd2a000097e4f9af4fc.js",
-      "path---hackers-invitations-html-1cd2a000097e4f9af4fc.js.map"
+      "path---hackers-invitations-html-3364a1ef918b24d384e8.js",
+      "path---hackers-invitations-html-3364a1ef918b24d384e8.js.map"
     ],
     "path---programs-hacker-feedback-dashboard-html": [
       "path---programs-hacker-feedback-dashboard-html-fcebd0e21ed01fd04437.js",
@@ -157,16 +157,16 @@
       "path---programs-zendesk-integration-html-b9b5f3b29e5e9712697a.js.map"
     ],
     "path---programs-duplicate-reports-html": [
-      "path---programs-duplicate-reports-html-3c6cf7de8d5c7dac708e.js",
-      "path---programs-duplicate-reports-html-3c6cf7de8d5c7dac708e.js.map"
+      "path---programs-duplicate-reports-html-1198b7dcb291d30ae0ac.js",
+      "path---programs-duplicate-reports-html-1198b7dcb291d30ae0ac.js.map"
     ],
     "path---programs-edit-the-doc-site-html": [
-      "path---programs-edit-the-doc-site-html-de622551305caae667be.js",
-      "path---programs-edit-the-doc-site-html-de622551305caae667be.js.map"
+      "path---programs-edit-the-doc-site-html-35b004b9b60683e2474b.js",
+      "path---programs-edit-the-doc-site-html-35b004b9b60683e2474b.js.map"
     ],
     "path---programs-defining-scope-html": [
-      "path---programs-defining-scope-html-efa4c3288175fc64514b.js",
-      "path---programs-defining-scope-html-efa4c3288175fc64514b.js.map"
+      "path---programs-defining-scope-html-089b4a3447dc91aa7b4f.js",
+      "path---programs-defining-scope-html-089b4a3447dc91aa7b4f.js.map"
     ],
     "path---programs-disclosure-assistance-html": [
       "path---programs-disclosure-assistance-html-74b961980a72319b2e57.js",
@@ -177,8 +177,8 @@
       "path---programs-email-forwarding-html-cb904e1fe6bed08cd530.js.map"
     ],
     "path---programs-scope-best-practices-html": [
-      "path---programs-scope-best-practices-html-6167538309c6fd5635ab.js",
-      "path---programs-scope-best-practices-html-6167538309c6fd5635ab.js.map"
+      "path---programs-scope-best-practices-html-7d8ee560ba643f19d0e4.js",
+      "path---programs-scope-best-practices-html-7d8ee560ba643f19d0e4.js.map"
     ],
     "path---changelog-2018-february": [
       "path---changelog-2018-february-4c727c73cfd8a1384e9a.js",
@@ -209,8 +209,8 @@
       "component---src-layouts-index-js-f8ae2c7d7b17e9b5eafe.js.map"
     ],
     "path---hackers-quality-reports-html": [
-      "path---hackers-quality-reports-html-44796e9959a261035c61.js",
-      "path---hackers-quality-reports-html-44796e9959a261035c61.js.map"
+      "path---hackers-quality-reports-html-305492671823fa21aff4.js",
+      "path---hackers-quality-reports-html-305492671823fa21aff4.js.map"
     ],
     "path---programs-common-responses-html": [
       "path---programs-common-responses-html-c793fa897a898ba8cd4d.js",
@@ -221,8 +221,8 @@
       "path---programs-submit-report-form-html-78596480e939374e5978.js.map"
     ],
     "path---programs-single-sign-on-sso-via-saml-html": [
-      "path---programs-single-sign-on-sso-via-saml-html-2b940619ff439ad353d9.js",
-      "path---programs-single-sign-on-sso-via-saml-html-2b940619ff439ad353d9.js.map"
+      "path---programs-single-sign-on-sso-via-saml-html-caab404c372129bf6cc7.js",
+      "path---programs-single-sign-on-sso-via-saml-html-caab404c372129bf6cc7.js.map"
     ],
     "path---programs-start-h-1-bounty-html": [
       "path---programs-start-h-1-bounty-html-0b88efa607e56299aa7e.js",
@@ -257,8 +257,8 @@
       "path---hackers-keyboard-shortcuts-html-6375156134bde70ab27b.js.map"
     ],
     "path---programs-security-page-html": [
-      "path---programs-security-page-html-cf444c0fb6cc6ef51906.js",
-      "path---programs-security-page-html-cf444c0fb6cc6ef51906.js.map"
+      "path---programs-security-page-html-eb15a643c5262fb06436.js",
+      "path---programs-security-page-html-eb15a643c5262fb06436.js.map"
     ],
     "path---hackers-private-vs-public-programs-html": [
       "path---hackers-private-vs-public-programs-html-f565111068872477b1da.js",
@@ -273,8 +273,8 @@
       "path---programs-communicating-with-hackers-html-c22841a663d1eeb8732e.js.map"
     ],
     "path---hackers-examples-of-misconduct-html": [
-      "path---hackers-examples-of-misconduct-html-b4d38c5ab8fe0f1f8a90.js",
-      "path---hackers-examples-of-misconduct-html-b4d38c5ab8fe0f1f8a90.js.map"
+      "path---hackers-examples-of-misconduct-html-92282766f33823b9e5f4.js",
+      "path---hackers-examples-of-misconduct-html-92282766f33823b9e5f4.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
@@ -285,8 +285,8 @@
       "path---programs-program-start-up-guide-html-9f604e1fe527d3d61479.js.map"
     ],
     "path---programs-two-factor-authentication-html": [
-      "path---programs-two-factor-authentication-html-6436f6c8fe7de40e805d.js",
-      "path---programs-two-factor-authentication-html-6436f6c8fe7de40e805d.js.map"
+      "path---programs-two-factor-authentication-html-340f234cc176b6e8e3e7.js",
+      "path---programs-two-factor-authentication-html-340f234cc176b6e8e3e7.js.map"
     ],
     "commons": [
       "commons-e4071d701cfb2ab56d0a.js",
@@ -303,8 +303,8 @@
       "path---hackers-reputation-html-7eb56be9ee557d9fc2b2.js.map"
     ],
     "path---programs-report-states-html": [
-      "path---programs-report-states-html-16dd3bb265cdc5d99e14.js",
-      "path---programs-report-states-html-16dd3bb265cdc5d99e14.js.map"
+      "path---programs-report-states-html-354e2ae6e2ba43255cb4.js",
+      "path---programs-report-states-html-354e2ae6e2ba43255cb4.js.map"
     ],
     "path---programs-billing-html": [
       "path---programs-billing-html-56672597fc9eecda9f8e.js",
@@ -315,8 +315,8 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---hackers-signal-and-impact-html": [
-      "path---hackers-signal-and-impact-html-380e49bb90ccd8cf38df.js",
-      "path---hackers-signal-and-impact-html-380e49bb90ccd8cf38df.js.map"
+      "path---hackers-signal-and-impact-html-a1fc6147b855c482c404.js",
+      "path---hackers-signal-and-impact-html-a1fc6147b855c482c404.js.map"
     ],
     "path---hackers-decline-invites-and-leave-programs-html": [
       "path---hackers-decline-invites-and-leave-programs-html-657b7b96632ceea09d75.js",
@@ -327,8 +327,8 @@
       "path---programs-github-integration-html-fe22bbb9a34357983434.js.map"
     ],
     "path---programs-good-policies-html": [
-      "path---programs-good-policies-html-ad3d60fa842266f6e503.js",
-      "path---programs-good-policies-html-ad3d60fa842266f6e503.js.map"
+      "path---programs-good-policies-html-de1da213d26347521a94.js",
+      "path---programs-good-policies-html-de1da213d26347521a94.js.map"
     ],
     "path---hackers-hacktivity-html": [
       "path---hackers-hacktivity-html-09e0ca98d255bc5edae0.js",
@@ -363,8 +363,8 @@
       "path---changelog-2018-march-c15aab146f28ceb48971.js.map"
     ],
     "path---programs-private-vs-public-programs-html": [
-      "path---programs-private-vs-public-programs-html-461356049294824526b2.js",
-      "path---programs-private-vs-public-programs-html-461356049294824526b2.js.map"
+      "path---programs-private-vs-public-programs-html-44df0b8e51a30c4f96c5.js",
+      "path---programs-private-vs-public-programs-html-44df0b8e51a30c4f96c5.js.map"
     ],
     "path---programs-freshdesk-integration-html": [
       "path---programs-freshdesk-integration-html-f8e7b125959ee252828e.js",
@@ -395,8 +395,8 @@
       "path---programs-human-augmented-signal-html-b118b9bf9cd0e06ca135.js.map"
     ],
     "path---hackers-directory-html": [
-      "path---hackers-directory-html-746039d0a73685ffbcfa.js",
-      "path---hackers-directory-html-746039d0a73685ffbcfa.js.map"
+      "path---hackers-directory-html-e261a8afbde96e33884d.js",
+      "path---hackers-directory-html-e261a8afbde96e33884d.js.map"
     ],
     "path---hackers-report-actions-html": [
       "path---hackers-report-actions-html-b29cceef6320e86ff32b.js",
@@ -493,8 +493,8 @@
       "path---changelog-2018-may-5533ab2a1f9ec2dbb539.js.map"
     ],
     "path---programs-report-actions-html": [
-      "path---programs-report-actions-html-940189b6ba924689d6ce.js",
-      "path---programs-report-actions-html-940189b6ba924689d6ce.js.map"
+      "path---programs-report-actions-html-e3a16e41682e7df504d8.js",
+      "path---programs-report-actions-html-e3a16e41682e7df504d8.js.map"
     ],
     "path---programs-pausing-report-submissions-html": [
       "path---programs-pausing-report-submissions-html-27328cd186a155493bf2.js",
@@ -509,8 +509,8 @@
       "path---programs-report-templates-html-9ecd7a6c6887258714bb.js.map"
     ],
     "path---hackers-hacker-mediation-html": [
-      "path---hackers-hacker-mediation-html-68c7a8a6b9470403346b.js",
-      "path---hackers-hacker-mediation-html-68c7a8a6b9470403346b.js.map"
+      "path---hackers-hacker-mediation-html-6e74007a8f280a43f575.js",
+      "path---hackers-hacker-mediation-html-6e74007a8f280a43f575.js.map"
     ],
     "path---programs-invitations-html": [
       "path---programs-invitations-html-225c959ab1cc7e8f58ea.js",
