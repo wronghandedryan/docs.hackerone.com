@@ -133,8 +133,8 @@
       "path---hackers-payments-html-c9918c84f6bb8270ac3a.js.map"
     ],
     "component---src-templates-hackers-js": [
-      "component---src-templates-hackers-js-b1fb8774680b36ef657d.js",
-      "component---src-templates-hackers-js-b1fb8774680b36ef657d.js.map"
+      "component---src-templates-hackers-js-8dfa24c2656ade7758a6.js",
+      "component---src-templates-hackers-js-8dfa24c2656ade7758a6.js.map"
     ],
     "path---programs-program-metrics-html": [
       "path---programs-program-metrics-html-b56f203f9318d55b270e.js",
@@ -233,8 +233,8 @@
       "path---programs-groups-and-permissions-html-625fc52f6100eb0c58ba.js.map"
     ],
     "component---src-pages-hackers-index-js": [
-      "component---src-pages-hackers-index-js-181bc2d8d20dd47d1091.js",
-      "component---src-pages-hackers-index-js-181bc2d8d20dd47d1091.js.map"
+      "component---src-pages-hackers-index-js-f172f57a13ff0527369a.js",
+      "component---src-pages-hackers-index-js-f172f57a13ff0527369a.js.map"
     ],
     "path---programs-inbox-views-html": [
       "path---programs-inbox-views-html-cf45490f9d8c498bd49f.js",
@@ -243,6 +243,10 @@
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---hackers-payments-faqs-html": [
+      "path---hackers-payments-faqs-html-44a1817a9dd1b5a823e6.js",
+      "path---hackers-payments-faqs-html-44a1817a9dd1b5a823e6.js.map"
     ],
     "path---hackers-hacker-101-html": [
       "path---hackers-hacker-101-html-e074a6e60fc895ae957e.js",
@@ -419,9 +423,9 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-d10674b1c780a6481383.js",
+      "app-83fc87163d621d8f3cda.js",
       "build-js-styles.css",
-      "app-d10674b1c780a6481383.js.map",
+      "app-83fc87163d621d8f3cda.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
