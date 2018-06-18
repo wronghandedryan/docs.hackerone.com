@@ -4,6 +4,10 @@
       "path---hackers-severity-html-34cf8eddfdd385a1fc19.js",
       "path---hackers-severity-html-34cf8eddfdd385a1fc19.js.map"
     ],
+    "path---programs-jira-integration-html": [
+      "path---programs-jira-integration-html-9ff3913820cf6138bb13.js",
+      "path---programs-jira-integration-html-9ff3913820cf6138bb13.js.map"
+    ],
     "path---programs-bounty-tables-html": [
       "path---programs-bounty-tables-html-ae1f5550449b88112ad9.js",
       "path---programs-bounty-tables-html-ae1f5550449b88112ad9.js.map"
@@ -363,8 +367,8 @@
       "path---programs-completing-your-security-page-html-916b455c3c1d6dbcb671.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-240c0ffe661d5910e2bb.js",
-      "component---src-templates-programs-js-240c0ffe661d5910e2bb.js.map"
+      "component---src-templates-programs-js-cd554fa4234775dddc32.js",
+      "component---src-templates-programs-js-cd554fa4234775dddc32.js.map"
     ],
     "path---programs-html": [
       "path---programs-html-4ab7a4a465fa415bf161.js",
@@ -431,14 +435,14 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-597cab28bcaf86e6fa76.js",
+      "app-220b6bde6195a732546f.js",
       "build-js-styles.css",
-      "app-597cab28bcaf86e6fa76.js.map",
+      "app-220b6bde6195a732546f.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-70879dcff5a4e6f6642e.js",
-      "component---src-pages-programs-index-js-70879dcff5a4e6f6642e.js.map"
+      "component---src-pages-programs-index-js-ecc301b28bff47baf957.js",
+      "component---src-pages-programs-index-js-ecc301b28bff47baf957.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-00d3003d010c7c8680d9.js",
