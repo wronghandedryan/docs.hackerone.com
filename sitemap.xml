@@ -46,6 +46,7 @@
 <url> <loc>https://docs.hackerone.com/programs/invitations.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/hackers/invitations-priority-queue.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/jira-cloud-integration.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.hackerone.com/programs/jira-faqs.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/jira-integration.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/jira-server-integration.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/hackers/keyboard-shortcuts.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>

@@ -288,6 +288,10 @@
       "path---hackers-examples-of-misconduct-html-92282766f33823b9e5f4.js",
       "path---hackers-examples-of-misconduct-html-92282766f33823b9e5f4.js.map"
     ],
+    "path---programs-jira-faqs-html": [
+      "path---programs-jira-faqs-html-c3af2f5357454ba2ccaa.js",
+      "path---programs-jira-faqs-html-c3af2f5357454ba2ccaa.js.map"
+    ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
@@ -367,8 +371,8 @@
       "path---programs-completing-your-security-page-html-916b455c3c1d6dbcb671.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-cd554fa4234775dddc32.js",
-      "component---src-templates-programs-js-cd554fa4234775dddc32.js.map"
+      "component---src-templates-programs-js-41e62683fbc50558e59c.js",
+      "component---src-templates-programs-js-41e62683fbc50558e59c.js.map"
     ],
     "path---programs-html": [
       "path---programs-html-4ab7a4a465fa415bf161.js",
@@ -435,14 +439,14 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-220b6bde6195a732546f.js",
+      "app-2edc9e51b810fcd6ebe3.js",
       "build-js-styles.css",
-      "app-220b6bde6195a732546f.js.map",
+      "app-2edc9e51b810fcd6ebe3.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-ecc301b28bff47baf957.js",
-      "component---src-pages-programs-index-js-ecc301b28bff47baf957.js.map"
+      "component---src-pages-programs-index-js-7f5078824f42ed52f75c.js",
+      "component---src-pages-programs-index-js-7f5078824f42ed52f75c.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-00d3003d010c7c8680d9.js",
