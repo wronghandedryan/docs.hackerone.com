@@ -12,6 +12,10 @@
       "path---programs-bounty-tables-html-65403db83eacb20d19ff.js",
       "path---programs-bounty-tables-html-65403db83eacb20d19ff.js.map"
     ],
+    "path---changelog-2018-june": [
+      "path---changelog-2018-june-2385a9f00ecd4235fd4e.js",
+      "path---changelog-2018-june-2385a9f00ecd4235fd4e.js.map"
+    ],
     "path---programs-thanks-html": [
       "path---programs-thanks-html-486067ba02fba93acb63.js",
       "path---programs-thanks-html-486067ba02fba93acb63.js.map"
@@ -427,8 +431,8 @@
       "path---programs-report-management-html-08a2d48f95962b9d748a.js.map"
     ],
     "path---changelog": [
-      "path---changelog-45566f9f8a4dd2bd6443.js",
-      "path---changelog-45566f9f8a4dd2bd6443.js.map"
+      "path---changelog-e847b34312703dff8a0a.js",
+      "path---changelog-e847b34312703dff8a0a.js.map"
     ],
     "path---hackers-hacker-start-up-guide-html": [
       "path---hackers-hacker-start-up-guide-html-a36325355926cca14745.js",
@@ -439,9 +443,9 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-2edc9e51b810fcd6ebe3.js",
+      "app-54c12e59965181a32598.js",
       "build-js-styles.css",
-      "app-2edc9e51b810fcd6ebe3.js.map",
+      "app-54c12e59965181a32598.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
