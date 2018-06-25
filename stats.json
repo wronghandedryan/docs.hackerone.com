@@ -145,8 +145,8 @@
       "path---hackers-payments-html-da4f6169bb51bb91bee5.js.map"
     ],
     "component---src-templates-hackers-js": [
-      "component---src-templates-hackers-js-5feaf07b25a4417689fd.js",
-      "component---src-templates-hackers-js-5feaf07b25a4417689fd.js.map"
+      "component---src-templates-hackers-js-41bba5934bda5b3e05e8.js",
+      "component---src-templates-hackers-js-41bba5934bda5b3e05e8.js.map"
     ],
     "path---programs-program-metrics-html": [
       "path---programs-program-metrics-html-b56f203f9318d55b270e.js",
@@ -232,6 +232,10 @@
       "path---programs-submit-report-form-html-78596480e939374e5978.js",
       "path---programs-submit-report-form-html-78596480e939374e5978.js.map"
     ],
+    "path---hackers-badges-html": [
+      "path---hackers-badges-html-a7762e923e27892cb7f4.js",
+      "path---hackers-badges-html-a7762e923e27892cb7f4.js.map"
+    ],
     "path---programs-single-sign-on-sso-via-saml-html": [
       "path---programs-single-sign-on-sso-via-saml-html-e1956fbe8796c3d452b0.js",
       "path---programs-single-sign-on-sso-via-saml-html-e1956fbe8796c3d452b0.js.map"
@@ -245,8 +249,8 @@
       "path---programs-groups-and-permissions-html-625fc52f6100eb0c58ba.js.map"
     ],
     "component---src-pages-hackers-index-js": [
-      "component---src-pages-hackers-index-js-9fcc2b78508b44c9c3e5.js",
-      "component---src-pages-hackers-index-js-9fcc2b78508b44c9c3e5.js.map"
+      "component---src-pages-hackers-index-js-952be9f63a3eb133097e.js",
+      "component---src-pages-hackers-index-js-952be9f63a3eb133097e.js.map"
     ],
     "path---programs-inbox-views-html": [
       "path---programs-inbox-views-html-cf45490f9d8c498bd49f.js",
@@ -375,8 +379,8 @@
       "path---programs-completing-your-security-page-html-916b455c3c1d6dbcb671.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-41e62683fbc50558e59c.js",
-      "component---src-templates-programs-js-41e62683fbc50558e59c.js.map"
+      "component---src-templates-programs-js-9be418083d916d544294.js",
+      "component---src-templates-programs-js-9be418083d916d544294.js.map"
     ],
     "path---programs-html": [
       "path---programs-html-4ab7a4a465fa415bf161.js",
@@ -443,14 +447,14 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-54c12e59965181a32598.js",
+      "app-13fdd3fcbe6aa28cf8be.js",
       "build-js-styles.css",
-      "app-54c12e59965181a32598.js.map",
+      "app-13fdd3fcbe6aa28cf8be.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-7f5078824f42ed52f75c.js",
-      "component---src-pages-programs-index-js-7f5078824f42ed52f75c.js.map"
+      "component---src-pages-programs-index-js-affa717ac08a9bcb95a2.js",
+      "component---src-pages-programs-index-js-affa717ac08a9bcb95a2.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-00d3003d010c7c8680d9.js",
