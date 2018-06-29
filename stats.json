@@ -13,8 +13,8 @@
       "path---programs-bounty-tables-html-12f5f377660411f52e81.js.map"
     ],
     "path---changelog-2018-june": [
-      "path---changelog-2018-june-504024579528cbebcfb2.js",
-      "path---changelog-2018-june-504024579528cbebcfb2.js.map"
+      "path---changelog-2018-june-9924156320e0d259c0f8.js",
+      "path---changelog-2018-june-9924156320e0d259c0f8.js.map"
     ],
     "path---programs-thanks-html": [
       "path---programs-thanks-html-486067ba02fba93acb63.js",
@@ -451,8 +451,8 @@
       "path---programs-report-management-html-08a2d48f95962b9d748a.js.map"
     ],
     "path---changelog": [
-      "path---changelog-57370c047d71f6f11e35.js",
-      "path---changelog-57370c047d71f6f11e35.js.map"
+      "path---changelog-05f1d130a3a69f23aceb.js",
+      "path---changelog-05f1d130a3a69f23aceb.js.map"
     ],
     "path---changelog-2018-january": [
       "path---changelog-2018-january-6d16ca03ede84ff6832d.js",
@@ -467,9 +467,9 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-d26dedcad154ea285bb5.js",
+      "app-835f9f3b16141a016302.js",
       "build-js-styles.css",
-      "app-d26dedcad154ea285bb5.js.map",
+      "app-835f9f3b16141a016302.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
@@ -479,6 +479,10 @@
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-00d3003d010c7c8680d9.js",
       "path---programs-using-markdown-html-00d3003d010c7c8680d9.js.map"
+    ],
+    "path---changelog-2017-july": [
+      "path---changelog-2017-july-d62e46a3041f27785165.js",
+      "path---changelog-2017-july-d62e46a3041f27785165.js.map"
     ],
     "path---programs-response-target-metrics-html": [
       "path---programs-response-target-metrics-html-fb53c4a81da5af853a8d.js",
