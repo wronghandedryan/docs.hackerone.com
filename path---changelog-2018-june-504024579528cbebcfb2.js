@@ -1,2 +1,0 @@
-webpackJsonp([8419948720954],{482:function(t,e){t.exports={data:{markdownRemark:{html:'<h3>Bounty Tables</h3>\n<p>Instead of having programs manually create their own bounty table on the policy page using tedious markdown, we now enable them to easily generate their own bounty table with our new <a href="https://docs.hackerone.com/programs/bounty-tables.html">bounty table</a> tool. </p>',frontmatter:{path:"/changelog/2018/june",title:"June 2018"}}},pathContext:{}}}});
-//# sourceMappingURL=path---changelog-2018-june-504024579528cbebcfb2.js.map
