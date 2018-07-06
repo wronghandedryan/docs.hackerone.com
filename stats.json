@@ -4,6 +4,10 @@
       "path---hackers-severity-html-34cf8eddfdd385a1fc19.js",
       "path---hackers-severity-html-34cf8eddfdd385a1fc19.js.map"
     ],
+    "path---programs-why-are-bounty-tables-important-html": [
+      "path---programs-why-are-bounty-tables-important-html-3ae4b812097b3ce5ee5b.js",
+      "path---programs-why-are-bounty-tables-important-html-3ae4b812097b3ce5ee5b.js.map"
+    ],
     "path---programs-jira-integration-html": [
       "path---programs-jira-integration-html-264039e2e12b4c649d0d.js",
       "path---programs-jira-integration-html-264039e2e12b4c649d0d.js.map"
@@ -245,8 +249,8 @@
       "component---src-templates-changelog-js-775ff42dba9d75c8e297.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-87ebcf20784b8d8d7374.js",
-      "component---src-layouts-index-js-87ebcf20784b8d8d7374.js.map"
+      "component---src-layouts-index-js-90755c3fba38ba35edfd.js",
+      "component---src-layouts-index-js-90755c3fba38ba35edfd.js.map"
     ],
     "path---hackers-quality-reports-html": [
       "path---hackers-quality-reports-html-305492671823fa21aff4.js",
@@ -415,8 +419,8 @@
       "path---programs-completing-your-security-page-html-916b455c3c1d6dbcb671.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-9be418083d916d544294.js",
-      "component---src-templates-programs-js-9be418083d916d544294.js.map"
+      "component---src-templates-programs-js-f7059622e59486a70411.js",
+      "component---src-templates-programs-js-f7059622e59486a70411.js.map"
     ],
     "path---programs-html": [
       "path---programs-html-4ab7a4a465fa415bf161.js",
@@ -495,14 +499,14 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-41d1186c57ddfb6ef228.js",
+      "app-91f7117c287afba00e7b.js",
       "build-js-styles.css",
-      "app-41d1186c57ddfb6ef228.js.map",
+      "app-91f7117c287afba00e7b.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-affa717ac08a9bcb95a2.js",
-      "component---src-pages-programs-index-js-affa717ac08a9bcb95a2.js.map"
+      "component---src-pages-programs-index-js-345bfd4ccc3a3ce6ddb6.js",
+      "component---src-pages-programs-index-js-345bfd4ccc3a3ce6ddb6.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-a7bd1d98b8709f6e8524.js",

@@ -1,0 +1,2 @@
+webpackJsonp([0xa21f99100b0b],{526:function(t,o){t.exports={data:{markdownRemark:{html:"<p>Article about inbox overview</p>",frontmatter:{path:"/programs/inbox.html",id:"programs/inbox",title:"Inbox",description:null}}},pathContext:{}}}});
+//# sourceMappingURL=path---programs-inbox-html-b26a03596b99abf950d9.js.map
