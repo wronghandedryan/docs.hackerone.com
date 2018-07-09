@@ -4,10 +4,6 @@
       "path---hackers-severity-html-34cf8eddfdd385a1fc19.js",
       "path---hackers-severity-html-34cf8eddfdd385a1fc19.js.map"
     ],
-    "path---programs-why-are-bounty-tables-important-html": [
-      "path---programs-why-are-bounty-tables-important-html-3ae4b812097b3ce5ee5b.js",
-      "path---programs-why-are-bounty-tables-important-html-3ae4b812097b3ce5ee5b.js.map"
-    ],
     "path---programs-jira-integration-html": [
       "path---programs-jira-integration-html-264039e2e12b4c649d0d.js",
       "path---programs-jira-integration-html-264039e2e12b4c649d0d.js.map"
@@ -88,9 +84,13 @@
       "path---changelog-2018-april-022eb2b31c73a1acff79.js",
       "path---changelog-2018-april-022eb2b31c73a1acff79.js.map"
     ],
+    "path---programs-importance-of-bounty-tables-html": [
+      "path---programs-importance-of-bounty-tables-html-1852ae4ce37230b5446e.js",
+      "path---programs-importance-of-bounty-tables-html-1852ae4ce37230b5446e.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-0228f079d547405374c9.js",
-      "component---src-pages-index-js-0228f079d547405374c9.js.map"
+      "component---src-pages-index-js-df4720a1333f4e44f35a.js",
+      "component---src-pages-index-js-df4720a1333f4e44f35a.js.map"
     ],
     "path---programs-bonuses-html": [
       "path---programs-bonuses-html-f5fb71d464c34a2bcdfe.js",
@@ -249,8 +249,8 @@
       "component---src-templates-changelog-js-775ff42dba9d75c8e297.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-90755c3fba38ba35edfd.js",
-      "component---src-layouts-index-js-90755c3fba38ba35edfd.js.map"
+      "component---src-layouts-index-js-f8ae2c7d7b17e9b5eafe.js",
+      "component---src-layouts-index-js-f8ae2c7d7b17e9b5eafe.js.map"
     ],
     "path---hackers-quality-reports-html": [
       "path---hackers-quality-reports-html-305492671823fa21aff4.js",
@@ -419,8 +419,8 @@
       "path---programs-completing-your-security-page-html-916b455c3c1d6dbcb671.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-f7059622e59486a70411.js",
-      "component---src-templates-programs-js-f7059622e59486a70411.js.map"
+      "component---src-templates-programs-js-0bcdfe5c89f349040bae.js",
+      "component---src-templates-programs-js-0bcdfe5c89f349040bae.js.map"
     ],
     "path---programs-html": [
       "path---programs-html-4ab7a4a465fa415bf161.js",
@@ -499,14 +499,14 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-91f7117c287afba00e7b.js",
+      "app-311112e67ce60f740712.js",
       "build-js-styles.css",
-      "app-91f7117c287afba00e7b.js.map",
+      "app-311112e67ce60f740712.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-345bfd4ccc3a3ce6ddb6.js",
-      "component---src-pages-programs-index-js-345bfd4ccc3a3ce6ddb6.js.map"
+      "component---src-pages-programs-index-js-c8683bdb51734c79c965.js",
+      "component---src-pages-programs-index-js-c8683bdb51734c79c965.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-a7bd1d98b8709f6e8524.js",
