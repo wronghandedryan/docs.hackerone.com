@@ -16,6 +16,10 @@
       "path---changelog-2018-june-94cfea3d8e009cda592e.js",
       "path---changelog-2018-june-94cfea3d8e009cda592e.js.map"
     ],
+    "path---changelog-2016-august": [
+      "path---changelog-2016-august-6d6691112eb05c905569.js",
+      "path---changelog-2016-august-6d6691112eb05c905569.js.map"
+    ],
     "path---changelog-2017-june": [
       "path---changelog-2017-june-19c5767f1c67bfa526ad.js",
       "path---changelog-2017-june-19c5767f1c67bfa526ad.js.map"
@@ -97,8 +101,8 @@
       "path---programs-importance-of-bounty-tables-html-1852ae4ce37230b5446e.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-0228f079d547405374c9.js",
-      "component---src-pages-index-js-0228f079d547405374c9.js.map"
+      "component---src-pages-index-js-df4720a1333f4e44f35a.js",
+      "component---src-pages-index-js-df4720a1333f4e44f35a.js.map"
     ],
     "path---programs-bonuses-html": [
       "path---programs-bonuses-html-f5fb71d464c34a2bcdfe.js",
@@ -257,8 +261,8 @@
       "component---src-templates-changelog-js-775ff42dba9d75c8e297.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-62e853977254f499cc47.js",
-      "component---src-layouts-index-js-62e853977254f499cc47.js.map"
+      "component---src-layouts-index-js-f8ae2c7d7b17e9b5eafe.js",
+      "component---src-layouts-index-js-f8ae2c7d7b17e9b5eafe.js.map"
     ],
     "path---hackers-quality-reports-html": [
       "path---hackers-quality-reports-html-305492671823fa21aff4.js",
@@ -291,6 +295,10 @@
     "path---programs-start-h-1-bounty-html": [
       "path---programs-start-h-1-bounty-html-0b88efa607e56299aa7e.js",
       "path---programs-start-h-1-bounty-html-0b88efa607e56299aa7e.js.map"
+    ],
+    "path---changelog-2016-july": [
+      "path---changelog-2016-july-748c73be71185dfd08b7.js",
+      "path---changelog-2016-july-748c73be71185dfd08b7.js.map"
     ],
     "path---programs-groups-and-permissions-html": [
       "path---programs-groups-and-permissions-html-625fc52f6100eb0c58ba.js",
@@ -495,8 +503,8 @@
       "path---programs-report-management-html-08a2d48f95962b9d748a.js.map"
     ],
     "path---changelog": [
-      "path---changelog-db0165b0eaf3fad91558.js",
-      "path---changelog-db0165b0eaf3fad91558.js.map"
+      "path---changelog-1dd794aa7452dd3504dd.js",
+      "path---changelog-1dd794aa7452dd3504dd.js.map"
     ],
     "path---changelog-2018-january": [
       "path---changelog-2018-january-c04dc92dd082f5c8476c.js",
@@ -515,9 +523,9 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-ad183d31f315e1c4a11b.js",
+      "app-55da030c2b64311d718a.js",
       "build-js-styles.css",
-      "app-ad183d31f315e1c4a11b.js.map",
+      "app-55da030c2b64311d718a.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
