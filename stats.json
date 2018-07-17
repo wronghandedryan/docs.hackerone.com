@@ -32,6 +32,10 @@
       "path---programs-overview-html-68b63cf597acdad83ecd.js",
       "path---programs-overview-html-68b63cf597acdad83ecd.js.map"
     ],
+    "path---changelog-2016-january": [
+      "path---changelog-2016-january-4c6b0ba9989edf099efd.js",
+      "path---changelog-2016-january-4c6b0ba9989edf099efd.js.map"
+    ],
     "path---changelog-2016-october": [
       "path---changelog-2016-october-f3831008a8b57d412956.js",
       "path---changelog-2016-october-f3831008a8b57d412956.js.map"
@@ -101,8 +105,8 @@
       "path---programs-importance-of-bounty-tables-html-1852ae4ce37230b5446e.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-0228f079d547405374c9.js",
-      "component---src-pages-index-js-0228f079d547405374c9.js.map"
+      "component---src-pages-index-js-df4720a1333f4e44f35a.js",
+      "component---src-pages-index-js-df4720a1333f4e44f35a.js.map"
     ],
     "path---programs-bonuses-html": [
       "path---programs-bonuses-html-f5fb71d464c34a2bcdfe.js",
@@ -160,6 +164,10 @@
       "path---hackers-invitations-html-3364a1ef918b24d384e8.js",
       "path---hackers-invitations-html-3364a1ef918b24d384e8.js.map"
     ],
+    "path---changelog-2016-may": [
+      "path---changelog-2016-may-28be663b6000d4ae3139.js",
+      "path---changelog-2016-may-28be663b6000d4ae3139.js.map"
+    ],
     "path---programs-hacker-feedback-dashboard-html": [
       "path---programs-hacker-feedback-dashboard-html-be010ccddd87de73e104.js",
       "path---programs-hacker-feedback-dashboard-html-be010ccddd87de73e104.js.map"
@@ -200,6 +208,10 @@
       "path---programs-slack-integration-html-1fb4fd04fecc2009d8fe.js",
       "path---programs-slack-integration-html-1fb4fd04fecc2009d8fe.js.map"
     ],
+    "path---changelog-2016-june": [
+      "path---changelog-2016-june-18116775b6ab18d3ec64.js",
+      "path---changelog-2016-june-18116775b6ab18d3ec64.js.map"
+    ],
     "path---programs-mantisbt-integration-html": [
       "path---programs-mantisbt-integration-html-d869e72a0168b7b6de84.js",
       "path---programs-mantisbt-integration-html-d869e72a0168b7b6de84.js.map"
@@ -236,6 +248,10 @@
       "path---programs-scope-best-practices-html-7d8ee560ba643f19d0e4.js",
       "path---programs-scope-best-practices-html-7d8ee560ba643f19d0e4.js.map"
     ],
+    "path---changelog-2016-april": [
+      "path---changelog-2016-april-4004d1965aec015cf594.js",
+      "path---changelog-2016-april-4004d1965aec015cf594.js.map"
+    ],
     "path---changelog-2018-february": [
       "path---changelog-2018-february-749967ed6098b2f238b4.js",
       "path---changelog-2018-february-749967ed6098b2f238b4.js.map"
@@ -261,8 +277,8 @@
       "component---src-templates-changelog-js-775ff42dba9d75c8e297.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-90755c3fba38ba35edfd.js",
-      "component---src-layouts-index-js-90755c3fba38ba35edfd.js.map"
+      "component---src-layouts-index-js-f8ae2c7d7b17e9b5eafe.js",
+      "component---src-layouts-index-js-f8ae2c7d7b17e9b5eafe.js.map"
     ],
     "path---hackers-quality-reports-html": [
       "path---hackers-quality-reports-html-305492671823fa21aff4.js",
@@ -503,8 +519,8 @@
       "path---programs-report-management-html-08a2d48f95962b9d748a.js.map"
     ],
     "path---changelog": [
-      "path---changelog-1dd794aa7452dd3504dd.js",
-      "path---changelog-1dd794aa7452dd3504dd.js.map"
+      "path---changelog-df78aaeb448b1cb0d691.js",
+      "path---changelog-df78aaeb448b1cb0d691.js.map"
     ],
     "path---changelog-2018-january": [
       "path---changelog-2018-january-c04dc92dd082f5c8476c.js",
@@ -523,9 +539,9 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-a660d3c743f9730b31e8.js",
+      "app-59a5c44f28b5c5c3028f.js",
       "build-js-styles.css",
-      "app-a660d3c743f9730b31e8.js.map",
+      "app-59a5c44f28b5c5c3028f.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
@@ -576,9 +592,17 @@
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---changelog-2016-february": [
+      "path---changelog-2016-february-fa82231d0448edd0fe26.js",
+      "path---changelog-2016-february-fa82231d0448edd0fe26.js.map"
+    ],
     "path---hackers-disclosure-assistance-html": [
       "path---hackers-disclosure-assistance-html-71bd231a9f75139cf178.js",
       "path---hackers-disclosure-assistance-html-71bd231a9f75139cf178.js.map"
+    ],
+    "path---changelog-2016-march": [
+      "path---changelog-2016-march-d9c7b57195f3fa63109a.js",
+      "path---changelog-2016-march-d9c7b57195f3fa63109a.js.map"
     ],
     "path---programs-public-disclosure-html": [
       "path---programs-public-disclosure-html-4cee25a719dca53fe9c7.js",

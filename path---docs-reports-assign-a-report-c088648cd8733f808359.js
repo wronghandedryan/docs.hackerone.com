@@ -1,2 +1,0 @@
-webpackJsonp([0xae71f1bf5d62],{390:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Content.</p>",frontmatter:{path:"/docs/reports/assign-a-report",title:"Assign a Report"}}},pathContext:{}}}});
-//# sourceMappingURL=path---docs-reports-assign-a-report-c088648cd8733f808359.js.map
