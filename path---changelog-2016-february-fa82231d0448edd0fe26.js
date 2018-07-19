@@ -1,2 +1,0 @@
-webpackJsonp([0xe79cd453b0bb],{500:function(e,t){e.exports={data:{markdownRemark:{html:"<h3>Hacker Invitation Preferences</h3>\n<p>Hackers now have the ability to manage their invitation preferences for private programs. They can opt-out of receiving invitations entirely or choose to only receive invites to programs that offer bounties. </p>",frontmatter:{path:"/changelog/2016/february",title:"February 2016"}}},pathContext:{}}}});
-//# sourceMappingURL=path---changelog-2016-february-fa82231d0448edd0fe26.js.map
