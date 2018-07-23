@@ -5,8 +5,8 @@
       "path---hackers-severity-html-34cf8eddfdd385a1fc19.js.map"
     ],
     "path---programs-jira-integration-html": [
-      "path---programs-jira-integration-html-264039e2e12b4c649d0d.js",
-      "path---programs-jira-integration-html-264039e2e12b4c649d0d.js.map"
+      "path---programs-jira-integration-html-72d17601f49912f20284.js",
+      "path---programs-jira-integration-html-72d17601f49912f20284.js.map"
     ],
     "path---programs-bounty-tables-html": [
       "path---programs-bounty-tables-html-ec6632f743bf82a20e41.js",
@@ -79,6 +79,10 @@
     "path---programs-severity-html": [
       "path---programs-severity-html-ae32ded9ed71ce05360c.js",
       "path---programs-severity-html-ae32ded9ed71ce05360c.js.map"
+    ],
+    "path---hackers-tax-forms-html": [
+      "path---hackers-tax-forms-html-23b3ce5b979c711c1285.js",
+      "path---hackers-tax-forms-html-23b3ce5b979c711c1285.js.map"
     ],
     "path---changelog-2017-september": [
       "path---changelog-2017-september-4798b003470d50439a16.js",
@@ -189,8 +193,8 @@
       "path---hackers-payments-html-25b0773d375e916f675f.js.map"
     ],
     "component---src-templates-hackers-js": [
-      "component---src-templates-hackers-js-9a3b1ca8f5ce1f109992.js",
-      "component---src-templates-hackers-js-9a3b1ca8f5ce1f109992.js.map"
+      "component---src-templates-hackers-js-2c456066833f1b37fab6.js",
+      "component---src-templates-hackers-js-2c456066833f1b37fab6.js.map"
     ],
     "path---programs-program-metrics-html": [
       "path---programs-program-metrics-html-b56f203f9318d55b270e.js",
@@ -321,8 +325,8 @@
       "path---programs-groups-and-permissions-html-625fc52f6100eb0c58ba.js.map"
     ],
     "component---src-pages-hackers-index-js": [
-      "component---src-pages-hackers-index-js-5a43e3f2bc00ee345ad5.js",
-      "component---src-pages-hackers-index-js-5a43e3f2bc00ee345ad5.js.map"
+      "component---src-pages-hackers-index-js-a7e3fc58e62006c795e3.js",
+      "component---src-pages-hackers-index-js-a7e3fc58e62006c795e3.js.map"
     ],
     "path---programs-inbox-views-html": [
       "path---programs-inbox-views-html-cf45490f9d8c498bd49f.js",
@@ -439,8 +443,8 @@
       "path---programs-automation-html-9bd06b9e77d98bf043aa.js.map"
     ],
     "path---hackers-payout-methods-html": [
-      "path---hackers-payout-methods-html-fb7a7816c816cb480038.js",
-      "path---hackers-payout-methods-html-fb7a7816c816cb480038.js.map"
+      "path---hackers-payout-methods-html-c533450eae7b60bbeba7.js",
+      "path---hackers-payout-methods-html-c533450eae7b60bbeba7.js.map"
     ],
     "path---programs-definition-html": [
       "path---programs-definition-html-5ac98ca9bb8a730b98eb.js",
@@ -539,9 +543,9 @@
       "path---programs-hacktivity-html-43b15dfc0839fee3c04b.js.map"
     ],
     "app": [
-      "app-41de0a28b6feef815cbd.js",
+      "app-8cad178cfc6e2f7445f3.js",
       "build-js-styles.css",
-      "app-41de0a28b6feef815cbd.js.map",
+      "app-8cad178cfc6e2f7445f3.js.map",
       "build-js-styles.css.map"
     ],
     "component---src-pages-programs-index-js": [
