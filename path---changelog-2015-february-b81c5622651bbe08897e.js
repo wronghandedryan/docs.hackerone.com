@@ -1,0 +1,2 @@
+webpackJsonp([72940332438369],{523:function(e,t){e.exports={data:{markdownRemark:{html:"<h3>Closing Spam Reports</h3>\n<p>We now provide the ability to close out a report due to it being spam or inappropriate.</p>\n<h3>Merge Duplicates</h3>\n<p>Programs can now merge duplicate reports and add hackers to the original report.</p>",frontmatter:{path:"/changelog/2015/february",title:"February 2015"}}},pathContext:{}}}});
+//# sourceMappingURL=path---changelog-2015-february-b81c5622651bbe08897e.js.map
