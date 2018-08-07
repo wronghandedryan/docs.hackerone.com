@@ -1,2 +1,0 @@
-webpackJsonp([0xc114ddf70151],{525:function(a,t){a.exports={data:{markdownRemark:{html:"<h3>Dashboard Metrics</h3>\n<p>We’ve added additional metrics on the program dashboard.</p>",frontmatter:{path:"/changelog/2015/may",title:"May 2015"}}},pathContext:{}}}});
-//# sourceMappingURL=path---changelog-2015-may-b0361a06e7c0fbe11c20.js.map
