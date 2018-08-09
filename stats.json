@@ -61,8 +61,8 @@
       "path---programs-products-html-40b9847b112f666af4f7.js.map"
     ],
     "path---changelog-2014-april": [
-      "path---changelog-2014-april-3e7cf708b559132c372f.js",
-      "path---changelog-2014-april-3e7cf708b559132c372f.js.map"
+      "path---changelog-2014-april-263523e473377ab69930.js",
+      "path---changelog-2014-april-263523e473377ab69930.js.map"
     ],
     "path---programs-supported-integrations-html": [
       "path---programs-supported-integrations-html-fbfcab5f0c3f6e4b2ac7.js",
@@ -77,8 +77,8 @@
       "path---programs-trac-integration-html-4dbf8a7a91688ad4f8a3.js.map"
     ],
     "path---changelog-2015-july": [
-      "path---changelog-2015-july-49350550ed89ed2a39f5.js",
-      "path---changelog-2015-july-49350550ed89ed2a39f5.js.map"
+      "path---changelog-2015-july-5b5dc9a024617dd63f91.js",
+      "path---changelog-2015-july-5b5dc9a024617dd63f91.js.map"
     ],
     "path---hackers-submitting-reports-html": [
       "path---hackers-submitting-reports-html-95753d32fe8d1db1dc3a.js",
@@ -201,8 +201,8 @@
       "path---changelog-2015-february-1ec3657a8ab937eb33c1.js.map"
     ],
     "path---changelog-2014-october": [
-      "path---changelog-2014-october-7171d3ddd85fb1c9bb22.js",
-      "path---changelog-2014-october-7171d3ddd85fb1c9bb22.js.map"
+      "path---changelog-2014-october-1cdaa8cc476443e56940.js",
+      "path---changelog-2014-october-1cdaa8cc476443e56940.js.map"
     ],
     "path---hackers-html": [
       "path---hackers-html-873022a4dc6645f838f8.js",
@@ -213,16 +213,16 @@
       "path---changelog-2017-november-5e0a22de5594425dd570.js.map"
     ],
     "path---changelog-2018-july": [
-      "path---changelog-2018-july-bdc2baa9e9f8d176f100.js",
-      "path---changelog-2018-july-bdc2baa9e9f8d176f100.js.map"
+      "path---changelog-2018-july-3e7eb6c3ebbd00d123a9.js",
+      "path---changelog-2018-july-3e7eb6c3ebbd00d123a9.js.map"
     ],
     "path---hackers-payments-html": [
       "path---hackers-payments-html-25b0773d375e916f675f.js",
       "path---hackers-payments-html-25b0773d375e916f675f.js.map"
     ],
     "component---src-templates-hackers-js": [
-      "component---src-templates-hackers-js-87222818f4769111c49b.js",
-      "component---src-templates-hackers-js-87222818f4769111c49b.js.map"
+      "component---src-templates-hackers-js-6661daaf418f14030ec8.js",
+      "component---src-templates-hackers-js-6661daaf418f14030ec8.js.map"
     ],
     "path---programs-program-metrics-html": [
       "path---programs-program-metrics-html-b56f203f9318d55b270e.js",
@@ -259,6 +259,10 @@
     "path---programs-edit-the-doc-site-html": [
       "path---programs-edit-the-doc-site-html-35b004b9b60683e2474b.js",
       "path---programs-edit-the-doc-site-html-35b004b9b60683e2474b.js.map"
+    ],
+    "path---hackers-two-factor-authentication-html": [
+      "path---hackers-two-factor-authentication-html-c2f024dec7b5fab09fc6.js",
+      "path---hackers-two-factor-authentication-html-c2f024dec7b5fab09fc6.js.map"
     ],
     "path---programs-defining-scope-html": [
       "path---programs-defining-scope-html-67458f43e0fba7933048.js",
@@ -357,8 +361,8 @@
       "path---programs-groups-and-permissions-html-625fc52f6100eb0c58ba.js.map"
     ],
     "component---src-pages-hackers-index-js": [
-      "component---src-pages-hackers-index-js-d04db553560b427913c7.js",
-      "component---src-pages-hackers-index-js-d04db553560b427913c7.js.map"
+      "component---src-pages-hackers-index-js-50beacaa58876cd39ff1.js",
+      "component---src-pages-hackers-index-js-50beacaa58876cd39ff1.js.map"
     ],
     "path---programs-inbox-views-html": [
       "path---programs-inbox-views-html-cf45490f9d8c498bd49f.js",
@@ -397,8 +401,8 @@
       "path---programs-bugzilla-integration-html-6a5b9619a2aee520d0e1.js.map"
     ],
     "path---changelog-2014-august": [
-      "path---changelog-2014-august-bbdafc2fae3bb119b496.js",
-      "path---changelog-2014-august-bbdafc2fae3bb119b496.js.map"
+      "path---changelog-2014-august-e81288c78d49b7261df6.js",
+      "path---changelog-2014-august-e81288c78d49b7261df6.js.map"
     ],
     "path---programs-communicating-with-hackers-html": [
       "path---programs-communicating-with-hackers-html-f0da87b47afff22609ab.js",
@@ -567,16 +571,16 @@
       "path---hackers-report-actions-html-b29cceef6320e86ff32b.js.map"
     ],
     "path---changelog-2015-november": [
-      "path---changelog-2015-november-7451ed8419022b2102df.js",
-      "path---changelog-2015-november-7451ed8419022b2102df.js.map"
+      "path---changelog-2015-november-bd0516be1ffcf7f8757b.js",
+      "path---changelog-2015-november-bd0516be1ffcf7f8757b.js.map"
     ],
     "path---programs-report-management-html": [
       "path---programs-report-management-html-08a2d48f95962b9d748a.js",
       "path---programs-report-management-html-08a2d48f95962b9d748a.js.map"
     ],
     "path---changelog": [
-      "path---changelog-eec5ae77564ab3aa55f3.js",
-      "path---changelog-eec5ae77564ab3aa55f3.js.map"
+      "path---changelog-83e0f528895b4a7841c3.js",
+      "path---changelog-83e0f528895b4a7841c3.js.map"
     ],
     "path---changelog-2018-january": [
       "path---changelog-2018-january-c04dc92dd082f5c8476c.js",
@@ -595,9 +599,9 @@
       "path---programs-hacktivity-html-1ef271c6df271c48e0f0.js.map"
     ],
     "app": [
-      "app-29a7040b22c9d0cf1650.js",
+      "app-7e11fcb278fd8e47c40a.js",
       "build-js-styles.css",
-      "app-29a7040b22c9d0cf1650.js.map",
+      "app-7e11fcb278fd8e47c40a.js.map",
       "build-js-styles.css.map"
     ],
     "path---changelog-2015-august": [
@@ -653,8 +657,8 @@
       "path---hackers-invitations-priority-queue-html-2a33734fd041964ba7d7.js.map"
     ],
     "path---changelog-2015-september": [
-      "path---changelog-2015-september-0c66739a2bf7eb7c2b1e.js",
-      "path---changelog-2015-september-0c66739a2bf7eb7c2b1e.js.map"
+      "path---changelog-2015-september-a24b6c3d087af80e4924.js",
+      "path---changelog-2015-september-a24b6c3d087af80e4924.js.map"
     ],
     "path---hackers-manage-notifications-html": [
       "path---hackers-manage-notifications-html-c643dae111fccad84fb1.js",
