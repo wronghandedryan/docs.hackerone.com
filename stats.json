@@ -128,6 +128,10 @@
       "component---src-pages-index-js-0228f079d547405374c9.js",
       "component---src-pages-index-js-0228f079d547405374c9.js.map"
     ],
+    "path---changelog-2018-august": [
+      "path---changelog-2018-august-7ccf9d3d0bcd94ad0966.js",
+      "path---changelog-2018-august-7ccf9d3d0bcd94ad0966.js.map"
+    ],
     "path---programs-bonuses-html": [
       "path---programs-bonuses-html-f5fb71d464c34a2bcdfe.js",
       "path---programs-bonuses-html-f5fb71d464c34a2bcdfe.js.map"
@@ -507,8 +511,8 @@
       "path---programs-completing-your-security-page-html-916b455c3c1d6dbcb671.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-c33772638d9e1b3ba6f0.js",
-      "component---src-templates-programs-js-c33772638d9e1b3ba6f0.js.map"
+      "component---src-templates-programs-js-ef60caa4c41bbb7453f6.js",
+      "component---src-templates-programs-js-ef60caa4c41bbb7453f6.js.map"
     ],
     "path---programs-html": [
       "path---programs-html-4ab7a4a465fa415bf161.js",
@@ -579,8 +583,8 @@
       "path---programs-report-management-html-08a2d48f95962b9d748a.js.map"
     ],
     "path---changelog": [
-      "path---changelog-1b57c1750d4124d3f058.js",
-      "path---changelog-1b57c1750d4124d3f058.js.map"
+      "path---changelog-e6b7961326f16d8af81c.js",
+      "path---changelog-e6b7961326f16d8af81c.js.map"
     ],
     "path---changelog-2018-january": [
       "path---changelog-2018-january-c04dc92dd082f5c8476c.js",
@@ -599,9 +603,9 @@
       "path---programs-hacktivity-html-1ef271c6df271c48e0f0.js.map"
     ],
     "app": [
-      "app-7e11fcb278fd8e47c40a.js",
+      "app-dd76c7008d40cd985a46.js",
       "build-js-styles.css",
-      "app-7e11fcb278fd8e47c40a.js.map",
+      "app-dd76c7008d40cd985a46.js.map",
       "build-js-styles.css.map"
     ],
     "path---changelog-2015-august": [
@@ -609,8 +613,8 @@
       "path---changelog-2015-august-48fc764bf4696f63aa6d.js.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-01b4e1273e9ee40cfa0a.js",
-      "component---src-pages-programs-index-js-01b4e1273e9ee40cfa0a.js.map"
+      "component---src-pages-programs-index-js-6c9b87d22d5ee363d0ef.js",
+      "component---src-pages-programs-index-js-6c9b87d22d5ee363d0ef.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-a7bd1d98b8709f6e8524.js",
