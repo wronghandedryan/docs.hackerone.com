@@ -265,8 +265,8 @@
       "path---programs-edit-the-doc-site-html-35b004b9b60683e2474b.js.map"
     ],
     "path---hackers-two-factor-authentication-html": [
-      "path---hackers-two-factor-authentication-html-c2f024dec7b5fab09fc6.js",
-      "path---hackers-two-factor-authentication-html-c2f024dec7b5fab09fc6.js.map"
+      "path---hackers-two-factor-authentication-html-cefe12a7f3254a8ac7c0.js",
+      "path---hackers-two-factor-authentication-html-cefe12a7f3254a8ac7c0.js.map"
     ],
     "path---programs-defining-scope-html": [
       "path---programs-defining-scope-html-c42ae0eff93c53afd011.js",
@@ -515,8 +515,8 @@
       "path---programs-completing-your-security-page-html-916b455c3c1d6dbcb671.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-0e61f5078ff2dfe37c41.js",
-      "component---src-templates-programs-js-0e61f5078ff2dfe37c41.js.map"
+      "component---src-templates-programs-js-d6c2526111d753b045d6.js",
+      "component---src-templates-programs-js-d6c2526111d753b045d6.js.map"
     ],
     "path---programs-html": [
       "path---programs-html-4ab7a4a465fa415bf161.js",
@@ -607,9 +607,9 @@
       "path---programs-hacktivity-html-1ef271c6df271c48e0f0.js.map"
     ],
     "app": [
-      "app-32a2c4d639874abb36a6.js",
+      "app-ab42eff9192781757cd6.js",
       "build-js-styles.css",
-      "app-32a2c4d639874abb36a6.js.map",
+      "app-ab42eff9192781757cd6.js.map",
       "build-js-styles.css.map"
     ],
     "path---changelog-2015-august": [
@@ -617,8 +617,8 @@
       "path---changelog-2015-august-48fc764bf4696f63aa6d.js.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-f471034ee12be6940b40.js",
-      "component---src-pages-programs-index-js-f471034ee12be6940b40.js.map"
+      "component---src-pages-programs-index-js-d3d6fa5f94ece5c82dc9.js",
+      "component---src-pages-programs-index-js-d3d6fa5f94ece5c82dc9.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-a7bd1d98b8709f6e8524.js",
@@ -639,6 +639,10 @@
     "path---programs-set-up-ip-whitelisting-html": [
       "path---programs-set-up-ip-whitelisting-html-ec050ce938b3dacf25a2.js",
       "path---programs-set-up-ip-whitelisting-html-ec050ce938b3dacf25a2.js.map"
+    ],
+    "path---programs-parent-child-programs-html": [
+      "path---programs-parent-child-programs-html-0815e4c7c1791e49db8f.js",
+      "path---programs-parent-child-programs-html-0815e4c7c1791e49db8f.js.map"
     ],
     "path---changelog-2017-march": [
       "path---changelog-2017-march-09e15a0cbf2b1b7b3aa8.js",
