@@ -360,6 +360,10 @@
       "path---hackers-badges-html-3c202293d33f22989cf2.js",
       "path---hackers-badges-html-3c202293d33f22989cf2.js.map"
     ],
+    "path---programs-credential-management-html": [
+      "path---programs-credential-management-html-bdd4886f1f77513320f4.js",
+      "path---programs-credential-management-html-bdd4886f1f77513320f4.js.map"
+    ],
     "path---changelog-2015-december": [
       "path---changelog-2015-december-49adb1164707c7709772.js",
       "path---changelog-2015-december-49adb1164707c7709772.js.map"
@@ -555,8 +559,8 @@
       "path---programs-completing-your-security-page-html-916b455c3c1d6dbcb671.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-46f0d0af4ddfe9e18300.js",
-      "component---src-templates-programs-js-46f0d0af4ddfe9e18300.js.map"
+      "component---src-templates-programs-js-f642c430e47a45c19507.js",
+      "component---src-templates-programs-js-f642c430e47a45c19507.js.map"
     ],
     "path---programs-html": [
       "path---programs-html-4ab7a4a465fa415bf161.js",
@@ -647,9 +651,9 @@
       "path---programs-hacktivity-html-1ef271c6df271c48e0f0.js.map"
     ],
     "app": [
-      "app-dcd0bf097f117b7d5002.js",
+      "app-89a2eeda1df146aa5452.js",
       "build-js-styles.css",
-      "app-dcd0bf097f117b7d5002.js.map",
+      "app-89a2eeda1df146aa5452.js.map",
       "build-js-styles.css.map"
     ],
     "path---changelog-2015-august": [
@@ -657,8 +661,8 @@
       "path---changelog-2015-august-48fc764bf4696f63aa6d.js.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-a9664e960be39724f37b.js",
-      "component---src-pages-programs-index-js-a9664e960be39724f37b.js.map"
+      "component---src-pages-programs-index-js-a1ab0e0d4287e2e1b8ed.js",
+      "component---src-pages-programs-index-js-a1ab0e0d4287e2e1b8ed.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-a7bd1d98b8709f6e8524.js",
