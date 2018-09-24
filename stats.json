@@ -233,8 +233,8 @@
       "path---hackers-payments-html-25b0773d375e916f675f.js.map"
     ],
     "component---src-templates-hackers-js": [
-      "component---src-templates-hackers-js-97b947c4bce07cde9c14.js",
-      "component---src-templates-hackers-js-97b947c4bce07cde9c14.js.map"
+      "component---src-templates-hackers-js-8a858e066d7295270723.js",
+      "component---src-templates-hackers-js-8a858e066d7295270723.js.map"
     ],
     "path---programs-program-metrics-html": [
       "path---programs-program-metrics-html-b56f203f9318d55b270e.js",
@@ -336,6 +336,10 @@
       "path---programs-api-tokens-html-0a9809b842832592f9b9.js",
       "path---programs-api-tokens-html-0a9809b842832592f9b9.js.map"
     ],
+    "path---hackers-credentials-html": [
+      "path---hackers-credentials-html-618cd19c6fbd271d2996.js",
+      "path---hackers-credentials-html-618cd19c6fbd271d2996.js.map"
+    ],
     "path---programs-dashboards-html": [
       "path---programs-dashboards-html-9a7e572ac795376ad492.js",
       "path---programs-dashboards-html-9a7e572ac795376ad492.js.map"
@@ -393,8 +397,8 @@
       "path---programs-groups-and-permissions-html-625fc52f6100eb0c58ba.js.map"
     ],
     "component---src-pages-hackers-index-js": [
-      "component---src-pages-hackers-index-js-23666b5ff31ccf177e3f.js",
-      "component---src-pages-hackers-index-js-23666b5ff31ccf177e3f.js.map"
+      "component---src-pages-hackers-index-js-f30860f7255f10553f0c.js",
+      "component---src-pages-hackers-index-js-f30860f7255f10553f0c.js.map"
     ],
     "path---programs-inbox-views-html": [
       "path---programs-inbox-views-html-df02e4b764d05b1cc9cb.js",
@@ -651,9 +655,9 @@
       "path---programs-hacktivity-html-1ef271c6df271c48e0f0.js.map"
     ],
     "app": [
-      "app-89a2eeda1df146aa5452.js",
+      "app-6354836085e6f1664f1f.js",
       "build-js-styles.css",
-      "app-89a2eeda1df146aa5452.js.map",
+      "app-6354836085e6f1664f1f.js.map",
       "build-js-styles.css.map"
     ],
     "path---changelog-2015-august": [
