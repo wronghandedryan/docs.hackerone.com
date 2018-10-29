@@ -562,6 +562,10 @@
       "path---hackers-payout-methods-html-c533450eae7b60bbeba7.js",
       "path---hackers-payout-methods-html-c533450eae7b60bbeba7.js.map"
     ],
+    "path---changelog-2018-october": [
+      "path---changelog-2018-october-51e725e0630c51cfcdf4.js",
+      "path---changelog-2018-october-51e725e0630c51cfcdf4.js.map"
+    ],
     "path---programs-definition-html": [
       "path---programs-definition-html-5ac98ca9bb8a730b98eb.js",
       "path---programs-definition-html-5ac98ca9bb8a730b98eb.js.map"
@@ -667,8 +671,8 @@
       "path---programs-airtable-integration-html-078e673c7c84d17d3020.js.map"
     ],
     "path---changelog": [
-      "path---changelog-b235cafa53306f7f9741.js",
-      "path---changelog-b235cafa53306f7f9741.js.map"
+      "path---changelog-6d188f048d3442bc0167.js",
+      "path---changelog-6d188f048d3442bc0167.js.map"
     ],
     "path---changelog-2018-january": [
       "path---changelog-2018-january-c04dc92dd082f5c8476c.js",
@@ -687,9 +691,9 @@
       "path---programs-hacktivity-html-95f41ad95c4067dbcead.js.map"
     ],
     "app": [
-      "app-2f1e34a4e6b35bfbdc1a.js",
+      "app-55c4c99de30812e78221.js",
       "build-js-styles.css",
-      "app-2f1e34a4e6b35bfbdc1a.js.map",
+      "app-55c4c99de30812e78221.js.map",
       "build-js-styles.css.map"
     ],
     "path---changelog-2015-august": [
