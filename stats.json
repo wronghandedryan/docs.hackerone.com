@@ -149,8 +149,8 @@
       "path---programs-phabricator-integration-html-3a5f9452a188991b7fdf.js.map"
     ],
     "path---hackers-hacker-dashboard-html": [
-      "path---hackers-hacker-dashboard-html-6b654a2e1764c8bd7466.js",
-      "path---hackers-hacker-dashboard-html-6b654a2e1764c8bd7466.js.map"
+      "path---hackers-hacker-dashboard-html-c608b7c297b8f6b56456.js",
+      "path---hackers-hacker-dashboard-html-c608b7c297b8f6b56456.js.map"
     ],
     "path---hackers-edit-the-doc-site-html": [
       "path---hackers-edit-the-doc-site-html-d6a6f2f6aa89f1c561de.js",
@@ -711,9 +711,9 @@
       "path---programs-hacktivity-html-95f41ad95c4067dbcead.js.map"
     ],
     "app": [
-      "app-c3e948f8f368f85bdfb2.js",
+      "app-32c829b3748ec4450602.js",
       "build-js-styles.css",
-      "app-c3e948f8f368f85bdfb2.js.map",
+      "app-32c829b3748ec4450602.js.map",
       "build-js-styles.css.map"
     ],
     "path---changelog-2015-august": [
