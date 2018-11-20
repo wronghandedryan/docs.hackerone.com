@@ -112,10 +112,6 @@
       "path---changelog-2017-september-4798b003470d50439a16.js",
       "path---changelog-2017-september-4798b003470d50439a16.js.map"
     ],
-    "path---hackers-public-disclosure-html": [
-      "path---hackers-public-disclosure-html-cb7d443722b3a453b5d2.js",
-      "path---hackers-public-disclosure-html-cb7d443722b3a453b5d2.js.map"
-    ],
     "path---programs-swag-html": [
       "path---programs-swag-html-69bb4f08667c5ff4bec3.js",
       "path---programs-swag-html-69bb4f08667c5ff4bec3.js.map"
@@ -253,8 +249,8 @@
       "path---hackers-payments-html-8f134f4d0e218b98f1e9.js.map"
     ],
     "component---src-templates-hackers-js": [
-      "component---src-templates-hackers-js-577718960c8cd874b8ef.js",
-      "component---src-templates-hackers-js-577718960c8cd874b8ef.js.map"
+      "component---src-templates-hackers-js-e9b7383ffa2ac024a485.js",
+      "component---src-templates-hackers-js-e9b7383ffa2ac024a485.js.map"
     ],
     "path---programs-program-metrics-html": [
       "path---programs-program-metrics-html-35649c383e31e9eb09a2.js",
@@ -348,6 +344,14 @@
       "path---hackers-using-markdown-html-1ab966e0092e9b8dbaad.js",
       "path---hackers-using-markdown-html-1ab966e0092e9b8dbaad.js.map"
     ],
+    "path---programs-disclosure-html": [
+      "path---programs-disclosure-html-8472752f94f1ca31835b.js",
+      "path---programs-disclosure-html-8472752f94f1ca31835b.js.map"
+    ],
+    "path---hackers-disclosure-html": [
+      "path---hackers-disclosure-html-8950983432a565156489.js",
+      "path---hackers-disclosure-html-8950983432a565156489.js.map"
+    ],
     "component---src-templates-changelog-js": [
       "component---src-templates-changelog-js-775ff42dba9d75c8e297.js",
       "component---src-templates-changelog-js-775ff42dba9d75c8e297.js.map"
@@ -425,8 +429,8 @@
       "path---programs-groups-and-permissions-html-4df72d533c7bf10022ea.js.map"
     ],
     "component---src-pages-hackers-index-js": [
-      "component---src-pages-hackers-index-js-4c612462d25f67b26ac4.js",
-      "component---src-pages-hackers-index-js-4c612462d25f67b26ac4.js.map"
+      "component---src-pages-hackers-index-js-7c317855e9bc47922982.js",
+      "component---src-pages-hackers-index-js-7c317855e9bc47922982.js.map"
     ],
     "path---programs-inbox-views-html": [
       "path---programs-inbox-views-html-c3510230dbdc4c35ffcb.js",
@@ -599,8 +603,8 @@
       "path---programs-completing-your-security-page-html-916b455c3c1d6dbcb671.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-7edf69936b0e42007d5e.js",
-      "component---src-templates-programs-js-7edf69936b0e42007d5e.js.map"
+      "component---src-templates-programs-js-44e0ec1af4c9bd21db6c.js",
+      "component---src-templates-programs-js-44e0ec1af4c9bd21db6c.js.map"
     ],
     "path---programs-sessions-html": [
       "path---programs-sessions-html-dc918f6f7af64b1198e7.js",
@@ -711,9 +715,9 @@
       "path---programs-hacktivity-html-95f41ad95c4067dbcead.js.map"
     ],
     "app": [
-      "app-4048080be2f40efcbd4d.js",
+      "app-6f6b242be7613b6f94c8.js",
       "build-js-styles.css",
-      "app-4048080be2f40efcbd4d.js.map",
+      "app-6f6b242be7613b6f94c8.js.map",
       "build-js-styles.css.map"
     ],
     "path---changelog-2015-august": [
@@ -721,8 +725,8 @@
       "path---changelog-2015-august-48fc764bf4696f63aa6d.js.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-fd3cd4e9d51c05ff505f.js",
-      "component---src-pages-programs-index-js-fd3cd4e9d51c05ff505f.js.map"
+      "component---src-pages-programs-index-js-debaa9452e0a39eabf22.js",
+      "component---src-pages-programs-index-js-debaa9452e0a39eabf22.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-a7bd1d98b8709f6e8524.js",
@@ -799,10 +803,6 @@
     "path---changelog-2016-march": [
       "path---changelog-2016-march-e647173c22774c07dfda.js",
       "path---changelog-2016-march-e647173c22774c07dfda.js.map"
-    ],
-    "path---programs-public-disclosure-html": [
-      "path---programs-public-disclosure-html-f2794beaec5399578b75.js",
-      "path---programs-public-disclosure-html-f2794beaec5399578b75.js.map"
     ],
     "path---programs-triggers-html": [
       "path---programs-triggers-html-4e317e5c4cd586dcd2dc.js",
