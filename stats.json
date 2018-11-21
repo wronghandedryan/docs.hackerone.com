@@ -695,8 +695,8 @@
       "path---programs-report-management-html-08a2d48f95962b9d748a.js.map"
     ],
     "path---changelog": [
-      "path---changelog-d3e4c12bdcd1643d4081.js",
-      "path---changelog-d3e4c12bdcd1643d4081.js.map"
+      "path---changelog-c59afe2726381f8ca226.js",
+      "path---changelog-c59afe2726381f8ca226.js.map"
     ],
     "path---changelog-2018-january": [
       "path---changelog-2018-january-c04dc92dd082f5c8476c.js",
@@ -715,9 +715,9 @@
       "path---programs-hacktivity-html-95f41ad95c4067dbcead.js.map"
     ],
     "app": [
-      "app-a652623fc260eb98f890.js",
+      "app-5e706044d6ecf4de4c31.js",
       "build-js-styles.css",
-      "app-a652623fc260eb98f890.js.map",
+      "app-5e706044d6ecf4de4c31.js.map",
       "build-js-styles.css.map"
     ],
     "path---changelog-2015-august": [
@@ -847,6 +847,10 @@
     "path---programs-invitations-html": [
       "path---programs-invitations-html-11be193d7665d10efd28.js",
       "path---programs-invitations-html-11be193d7665d10efd28.js.map"
+    ],
+    "path---changelog-2018-november": [
+      "path---changelog-2018-november-53fda098131f8b4e1234.js",
+      "path---changelog-2018-november-53fda098131f8b4e1234.js.map"
     ]
   }
 }
