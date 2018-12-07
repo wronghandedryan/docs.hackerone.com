@@ -112,6 +112,7 @@
 <url> <loc>https://docs.hackerone.com/changelog/2017/may</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/changelog/2018/may</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/message-hackers.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.hackerone.com/programs/notifications.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/changelog/2015/november</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/changelog/2016/november</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/changelog/2017/november</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -140,6 +141,7 @@
 <url> <loc>https://docs.hackerone.com/hackers/quality-reports.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/quality-reports.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/redmine-integration.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.hackerone.com/programs/reducing-noise.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/hackers/report-actions.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/report-actions.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/report-management.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
