@@ -526,6 +526,10 @@
       "path---changelog-2015-april-ad0f3069157676af5e5f.js",
       "path---changelog-2015-april-ad0f3069157676af5e5f.js.map"
     ],
+    "path---changelog-2019-january": [
+      "path---changelog-2019-january-4a860994e771896f8a62.js",
+      "path---changelog-2019-january-4a860994e771896f8a62.js.map"
+    ],
     "path---programs-report-states-html": [
       "path---programs-report-states-html-354e2ae6e2ba43255cb4.js",
       "path---programs-report-states-html-354e2ae6e2ba43255cb4.js.map"
@@ -703,8 +707,8 @@
       "path---programs-report-management-html-08a2d48f95962b9d748a.js.map"
     ],
     "path---changelog": [
-      "path---changelog-243f967cb05897f1e3a4.js",
-      "path---changelog-243f967cb05897f1e3a4.js.map"
+      "path---changelog-f47e11b07f0b1f837844.js",
+      "path---changelog-f47e11b07f0b1f837844.js.map"
     ],
     "path---changelog-2018-january": [
       "path---changelog-2018-january-c04dc92dd082f5c8476c.js",
@@ -727,9 +731,9 @@
       "path---programs-hacktivity-html-4c5b6ba416d3fa191a35.js.map"
     ],
     "app": [
-      "app-2263ba67edaf8c9aed91.js",
+      "app-513278c0b187214321d4.js",
       "build-js-styles.css",
-      "app-2263ba67edaf8c9aed91.js.map",
+      "app-513278c0b187214321d4.js.map",
       "build-js-styles.css.map"
     ],
     "path---changelog-2015-august": [
