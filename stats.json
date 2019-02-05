@@ -393,8 +393,8 @@
       "component---src-templates-changelog-js-775ff42dba9d75c8e297.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-b9480ffc8756d0e20214.js",
-      "component---src-layouts-index-js-b9480ffc8756d0e20214.js.map"
+      "component---src-layouts-index-js-f642ce523c5372b1fcec.js",
+      "component---src-layouts-index-js-f642ce523c5372b1fcec.js.map"
     ],
     "path---hackers-quality-reports-html": [
       "path---hackers-quality-reports-html-b1b05e9b78cca87e4206.js",
@@ -573,9 +573,9 @@
       "path---programs-two-factor-authentication-html-a2fb1f1ac9000117ed54.js.map"
     ],
     "commons": [
-      "commons-c8fc77b1935088031e94.js",
+      "commons-4edb64f7c6dd638c209f.js",
       "build-js-styles.css",
-      "commons-c8fc77b1935088031e94.js.map",
+      "commons-4edb64f7c6dd638c209f.js.map",
       "build-js-styles.css.map"
     ],
     "path---programs-hackbot-html": [
@@ -815,9 +815,9 @@
       "path---glossary-reputation-30256571c87c57b1ed2e.js.map"
     ],
     "app": [
-      "app-9d7154eb2e50a352eb3d.js",
+      "app-7bed0479036e12b168dd.js",
       "build-js-styles.css",
-      "app-9d7154eb2e50a352eb3d.js.map",
+      "app-7bed0479036e12b168dd.js.map",
       "build-js-styles.css.map"
     ],
     "path---glossary-impact": [
