@@ -1,2 +1,0 @@
-webpackJsonp([0xebcc0d2ab0aa],{636:function(t,a){t.exports={data:{markdownRemark:{html:"<p>The HackerOne directory is a community-curated resource for contacting an organization regarding a security vulnerability.</p>",frontmatter:{path:"/glossary/directory",title:"Directory"}}},pathContext:{}}}});
-//# sourceMappingURL=path---glossary-directory-28b70edc7d4628df99ff.js.map

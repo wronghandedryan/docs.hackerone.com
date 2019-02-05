@@ -1,2 +1,0 @@
-webpackJsonp([0xd3a91ac8d290],{639:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Average reputation gained per bounty.</p>",frontmatter:{path:"/glossary/impact",title:"Impact"}}},pathContext:{}}}});
-//# sourceMappingURL=path---glossary-impact-1d02c0456ae8082abcfe.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([20026667723454],{634:function(t,a){t.exports={data:{markdownRemark:{html:"<p>Common Vulnerability Scoring System (CVSS) is the framework HackerOne utilizes to assign a severity rating to a vulnerability.</p>",frontmatter:{path:"/glossary/cvss",title:"CVSS"}}},pathContext:{}}}});
-//# sourceMappingURL=path---glossary-cvss-58738b9e9fed54c08244.js.map
