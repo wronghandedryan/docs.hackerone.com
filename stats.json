@@ -328,6 +328,10 @@
       "path---programs-edit-the-doc-site-html-0b8126b733e2672e4622.js",
       "path---programs-edit-the-doc-site-html-0b8126b733e2672e4622.js.map"
     ],
+    "path---hackers-claiming-reports-html": [
+      "path---hackers-claiming-reports-html-6e8d768c5558e04f4b6c.js",
+      "path---hackers-claiming-reports-html-6e8d768c5558e04f4b6c.js.map"
+    ],
     "path---hackers-two-factor-authentication-html": [
       "path---hackers-two-factor-authentication-html-27ef82d4404e0d42f823.js",
       "path---hackers-two-factor-authentication-html-27ef82d4404e0d42f823.js.map"
@@ -365,8 +369,8 @@
       "path---changelog-2016-april-d58d0b09519129d4a441.js.map"
     ],
     "path---changelog-2019-april": [
-      "path---changelog-2019-april-2ca66b233722f1f17418.js",
-      "path---changelog-2019-april-2ca66b233722f1f17418.js.map"
+      "path---changelog-2019-april-d3bc5152801fd8442a68.js",
+      "path---changelog-2019-april-d3bc5152801fd8442a68.js.map"
     ],
     "path---changelog-2018-february": [
       "path---changelog-2018-february-6beb45290c3439f2f66c.js",
@@ -799,8 +803,8 @@
       "path---programs-report-management-html-08a2d48f95962b9d748a.js.map"
     ],
     "path---changelog": [
-      "path---changelog-afa96f415a00dd42be1f.js",
-      "path---changelog-afa96f415a00dd42be1f.js.map"
+      "path---changelog-c8842e1a632317a7b583.js",
+      "path---changelog-c8842e1a632317a7b583.js.map"
     ],
     "path---changelog-2018-january": [
       "path---changelog-2018-january-914a34ce48b11252106f.js",
@@ -827,9 +831,9 @@
       "path---glossary-reputation-30256571c87c57b1ed2e.js.map"
     ],
     "app": [
-      "app-f23a5dc0e4d270235168.js",
+      "app-f44bfa0ef90ce42ba134.js",
       "build-js-styles.css",
-      "app-f23a5dc0e4d270235168.js.map",
+      "app-f44bfa0ef90ce42ba134.js.map",
       "build-js-styles.css.map"
     ],
     "path---glossary-impact": [
