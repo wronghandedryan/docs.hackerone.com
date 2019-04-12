@@ -397,8 +397,8 @@
       "path---programs-disclosure-html-9bbb8c78a757267a3e96.js.map"
     ],
     "path---hackers-disclosure-html": [
-      "path---hackers-disclosure-html-3d6ca96d8f16ce1d0784.js",
-      "path---hackers-disclosure-html-3d6ca96d8f16ce1d0784.js.map"
+      "path---hackers-disclosure-html-acb4dc2e8ad47cd95c1d.js",
+      "path---hackers-disclosure-html-acb4dc2e8ad47cd95c1d.js.map"
     ],
     "component---src-templates-changelog-js": [
       "component---src-templates-changelog-js-775ff42dba9d75c8e297.js",
@@ -831,9 +831,9 @@
       "path---glossary-reputation-30256571c87c57b1ed2e.js.map"
     ],
     "app": [
-      "app-e1baba5a91b3b7fa776c.js",
+      "app-bc8cf84d6275a5edc86b.js",
       "build-js-styles.css",
-      "app-e1baba5a91b3b7fa776c.js.map",
+      "app-bc8cf84d6275a5edc86b.js.map",
       "build-js-styles.css.map"
     ],
     "path---glossary-impact": [
