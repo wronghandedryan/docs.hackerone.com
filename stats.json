@@ -544,6 +544,10 @@
       "path---programs-invalid-otp-code-html-b32f754de66bfc0afa0b.js",
       "path---programs-invalid-otp-code-html-b32f754de66bfc0afa0b.js.map"
     ],
+    "path---programs-statistics-dashboard-html": [
+      "path---programs-statistics-dashboard-html-29589ccc08ce8ce6e739.js",
+      "path---programs-statistics-dashboard-html-29589ccc08ce8ce6e739.js.map"
+    ],
     "path---programs-security-page-html": [
       "path---programs-security-page-html-b9913c3e6a48cea6099e.js",
       "path---programs-security-page-html-b9913c3e6a48cea6099e.js.map"
@@ -695,8 +699,8 @@
       "path---programs-completing-your-security-page-html-916b455c3c1d6dbcb671.js.map"
     ],
     "component---src-templates-programs-js": [
-      "component---src-templates-programs-js-0cbab1dae6db49ed3ccf.js",
-      "component---src-templates-programs-js-0cbab1dae6db49ed3ccf.js.map"
+      "component---src-templates-programs-js-f253268143d1964fa690.js",
+      "component---src-templates-programs-js-f253268143d1964fa690.js.map"
     ],
     "path---programs-sessions-html": [
       "path---programs-sessions-html-e77a341437bfbe824676.js",
@@ -835,9 +839,9 @@
       "path---glossary-reputation-30256571c87c57b1ed2e.js.map"
     ],
     "app": [
-      "app-739b927a97a364df86b6.js",
+      "app-d8613cd56dd42e62cc33.js",
       "build-js-styles.css",
-      "app-739b927a97a364df86b6.js.map",
+      "app-d8613cd56dd42e62cc33.js.map",
       "build-js-styles.css.map"
     ],
     "path---glossary-impact": [
@@ -849,8 +853,8 @@
       "path---changelog-2015-august-3d4751340d632d5a72b5.js.map"
     ],
     "component---src-pages-programs-index-js": [
-      "component---src-pages-programs-index-js-2629849563c413d1560f.js",
-      "component---src-pages-programs-index-js-2629849563c413d1560f.js.map"
+      "component---src-pages-programs-index-js-ff4ae75d95c766f97d86.js",
+      "component---src-pages-programs-index-js-ff4ae75d95c766f97d86.js.map"
     ],
     "path---programs-using-markdown-html": [
       "path---programs-using-markdown-html-490f667884b10430282a.js",
