@@ -593,9 +593,9 @@
       "path---programs-two-factor-authentication-html-91054d175ec946fb06d1.js.map"
     ],
     "commons": [
-      "commons-c5cc777df7486e7fb299.js",
+      "commons-9199edf39cb4f3674823.js",
       "build-js-styles.css",
-      "commons-c5cc777df7486e7fb299.js.map",
+      "commons-9199edf39cb4f3674823.js.map",
       "build-js-styles.css.map"
     ],
     "path---programs-hackbot-html": [
@@ -835,9 +835,9 @@
       "path---glossary-reputation-30256571c87c57b1ed2e.js.map"
     ],
     "app": [
-      "app-f20a8352e2c83b25be09.js",
+      "app-ae2ade913c0810ba2a79.js",
       "build-js-styles.css",
-      "app-f20a8352e2c83b25be09.js.map",
+      "app-ae2ade913c0810ba2a79.js.map",
       "build-js-styles.css.map"
     ],
     "path---glossary-impact": [
