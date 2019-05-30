@@ -553,8 +553,8 @@
       "path---programs-security-page-html-b9913c3e6a48cea6099e.js.map"
     ],
     "path---hackers-private-vs-public-programs-html": [
-      "path---hackers-private-vs-public-programs-html-f565111068872477b1da.js",
-      "path---hackers-private-vs-public-programs-html-f565111068872477b1da.js.map"
+      "path---hackers-private-vs-public-programs-html-f9e38b66b28b3eacc001.js",
+      "path---hackers-private-vs-public-programs-html-f9e38b66b28b3eacc001.js.map"
     ],
     "path---programs-bugzilla-integration-html": [
       "path---programs-bugzilla-integration-html-7850678f82bb57279ede.js",
@@ -835,9 +835,9 @@
       "path---glossary-reputation-30256571c87c57b1ed2e.js.map"
     ],
     "app": [
-      "app-a6a5be1bef2431f15443.js",
+      "app-478fb68f7783392966ae.js",
       "build-js-styles.css",
-      "app-a6a5be1bef2431f15443.js.map",
+      "app-478fb68f7783392966ae.js.map",
       "build-js-styles.css.map"
     ],
     "path---glossary-impact": [
