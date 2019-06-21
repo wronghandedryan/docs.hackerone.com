@@ -9,8 +9,8 @@
       "path---hackers-hackerone-clearance-html-b74b74617bff9c43a98d.js.map"
     ],
     "path---changelog-2019-june": [
-      "path---changelog-2019-june-21b1e07270f08b68686a.js",
-      "path---changelog-2019-june-21b1e07270f08b68686a.js.map"
+      "path---changelog-2019-june-736fc27ee23097d13a3d.js",
+      "path---changelog-2019-june-736fc27ee23097d13a3d.js.map"
     ],
     "path---hackers-retesting-html": [
       "path---hackers-retesting-html-b79a525a2c0127d7054c.js",
@@ -319,6 +319,10 @@
     "path---changelog-2016-june": [
       "path---changelog-2016-june-1485beef67c12d82a2ed.js",
       "path---changelog-2016-june-1485beef67c12d82a2ed.js.map"
+    ],
+    "path---hackers-types-of-weaknesses-html": [
+      "path---hackers-types-of-weaknesses-html-ab711fae93e35d12280d.js",
+      "path---hackers-types-of-weaknesses-html-ab711fae93e35d12280d.js.map"
     ],
     "path---programs-mantisbt-integration-html": [
       "path---programs-mantisbt-integration-html-42d88cd5c79cb3397557.js",
@@ -811,8 +815,8 @@
       "path---programs-report-management-html-08a2d48f95962b9d748a.js.map"
     ],
     "path---changelog": [
-      "path---changelog-a9948212a3ad10a846ac.js",
-      "path---changelog-a9948212a3ad10a846ac.js.map"
+      "path---changelog-acd80e2a30b95dd54b4d.js",
+      "path---changelog-acd80e2a30b95dd54b4d.js.map"
     ],
     "path---changelog-2018-january": [
       "path---changelog-2018-january-914a34ce48b11252106f.js",
@@ -843,9 +847,9 @@
       "path---glossary-reputation-30256571c87c57b1ed2e.js.map"
     ],
     "app": [
-      "app-82614987caf4ac2d2f80.js",
+      "app-d08f5f88867728eb20db.js",
       "build-js-styles.css",
-      "app-82614987caf4ac2d2f80.js.map",
+      "app-d08f5f88867728eb20db.js.map",
       "build-js-styles.css.map"
     ],
     "path---glossary-impact": [
