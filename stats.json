@@ -292,6 +292,10 @@
       "path---changelog-2018-july-ed7263b2b3801779fc55.js",
       "path---changelog-2018-july-ed7263b2b3801779fc55.js.map"
     ],
+    "path---changelog-2019-july": [
+      "path---changelog-2019-july-f5241495b11aa9e29d44.js",
+      "path---changelog-2019-july-f5241495b11aa9e29d44.js.map"
+    ],
     "path---hackers-payments-html": [
       "path---hackers-payments-html-8d26a927a99d93824039.js",
       "path---hackers-payments-html-8d26a927a99d93824039.js.map"
@@ -815,8 +819,8 @@
       "path---programs-report-management-html-08a2d48f95962b9d748a.js.map"
     ],
     "path---changelog": [
-      "path---changelog-1e244dbb2bf5a9478743.js",
-      "path---changelog-1e244dbb2bf5a9478743.js.map"
+      "path---changelog-14d8de599f9d82784037.js",
+      "path---changelog-14d8de599f9d82784037.js.map"
     ],
     "path---changelog-2018-january": [
       "path---changelog-2018-january-914a34ce48b11252106f.js",
@@ -847,9 +851,9 @@
       "path---glossary-reputation-30256571c87c57b1ed2e.js.map"
     ],
     "app": [
-      "app-d08f5f88867728eb20db.js",
+      "app-9af232b3e79b301e41bf.js",
       "build-js-styles.css",
-      "app-d08f5f88867728eb20db.js.map",
+      "app-9af232b3e79b301e41bf.js.map",
       "build-js-styles.css.map"
     ],
     "path---glossary-impact": [
