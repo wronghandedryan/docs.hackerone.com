@@ -851,9 +851,9 @@
       "path---glossary-reputation-30256571c87c57b1ed2e.js.map"
     ],
     "app": [
-      "app-9af232b3e79b301e41bf.js",
+      "app-1e76f78a758daf5ca12b.js",
       "build-js-styles.css",
-      "app-9af232b3e79b301e41bf.js.map",
+      "app-1e76f78a758daf5ca12b.js.map",
       "build-js-styles.css.map"
     ],
     "path---glossary-impact": [
@@ -923,6 +923,10 @@
     "path---hackers-invitations-priority-queue-html": [
       "path---hackers-invitations-priority-queue-html-df09c9a405884dafbf27.js",
       "path---hackers-invitations-priority-queue-html-df09c9a405884dafbf27.js.map"
+    ],
+    "path---programs-audit-logs-html": [
+      "path---programs-audit-logs-html-52c7a5d0b43c7bbf4ba8.js",
+      "path---programs-audit-logs-html-52c7a5d0b43c7bbf4ba8.js.map"
     ],
     "path---changelog-2015-september": [
       "path---changelog-2015-september-811ac3fc1ff8efc3f5fc.js",
