@@ -472,6 +472,10 @@
       "path---changelog-2015-december-7fd34c60d8bff1b3a7f3.js",
       "path---changelog-2015-december-7fd34c60d8bff1b3a7f3.js.map"
     ],
+    "path---hackers-external-payments-html": [
+      "path---hackers-external-payments-html-46279ca74d2028364bcd.js",
+      "path---hackers-external-payments-html-46279ca74d2028364bcd.js.map"
+    ],
     "path---changelog-2016-september": [
       "path---changelog-2016-september-c4fc6827cfe75cd226e7.js",
       "path---changelog-2016-september-c4fc6827cfe75cd226e7.js.map"
@@ -851,9 +855,9 @@
       "path---glossary-reputation-30256571c87c57b1ed2e.js.map"
     ],
     "app": [
-      "app-316fb162687809c53b51.js",
+      "app-80978d65bf9093291dfe.js",
       "build-js-styles.css",
-      "app-316fb162687809c53b51.js.map",
+      "app-80978d65bf9093291dfe.js.map",
       "build-js-styles.css.map"
     ],
     "path---glossary-impact": [
