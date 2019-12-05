@@ -91,8 +91,8 @@
 <url> <loc>https://docs.hackerone.com/hackers/hacker101.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/hackers/vpat.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/hackers/hackerone-clear.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://docs.hackerone.com/programs/hackerone-vpn.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/hackers/configure-the-hackerone-vpn.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://docs.hackerone.com/programs/hackerone-vpn.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/vpn-faqs.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/accessibility/vpat.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://docs.hackerone.com/programs/hacktivity.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
