@@ -66,15 +66,25 @@
 <li>Edit the code that gets executed when the integration gets triggered by pasting the code below</li>
 </ol>
 <p><code>var webhook = PD.inputRequest;</code>
-<code>var event_type = PD.Trigger;</code>
-<code>var severity = webhook.body.data.report.relationships.severity;</code>
-<code>var severity_rating = severity ? severity.data.attributes.rating : null;</code></p>
-<p><code>if (severity_rating == "high" || severity_rating == "critical") { var normalized_event = { event_type: event_type, incident_key: webhook.body.data.report.id, client: 'HackerOne', client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id, description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!', details: 'The ' + severity_rating + ' report title is ' + webhook.body.data.report.attributes.title }; PD.emitGenericEvents([normalized_event]); }</code></p>
+<br><code>var event_type = PD.Trigger;</code>
+<br><code>var severity = webhook.body.data.report.relationships.severity;</code>
+<br><code>var severity_rating = severity ? severity.data.attributes.rating : null;</code></p>
+<p><code>if (severity_rating == "high" || severity_rating == "critical") {</code>
+<br> <code>var normalized_event = {</code>
+<br> <code>event_type: event_type,</code>
+<br> <code>incident_key: webhook.body.data.report.id,</code>
+<br> <code>client: 'HackerOne',</code>
+<br> <code>client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,</code>
+<br><code>description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',</code>
+<br> <code>details: 'The '+ severity_rating + ' report title is ' + &#x3C;Bwebhook.body.data.report.attributes.title</code>
+<br> <code>};</code>
+<br> <code>PD.emitGenericEvents([normalized_event]);</code>
+<br><code>}</code></p>
 <p>If you want to be notified for all reports that get created (regardless of severity) you can use the following code instead:</p>
 <p><code>var webhook = PD.inputRequest;</code>
-<code>var event_type = PD.Trigger;</code>
-<code>var severity = webhook.body.data.report.relationships.severity;</code>
-<code>var severity_rating = severity ? severity.data.attributes.rating : null;</code></p>
+<br><code>var event_type = PD.Trigger;</code>
+<br><code>var severity = webhook.body.data.report.relationships.severity;</code>
+<br><code>var severity_rating = severity ? severity.data.attributes.rating : null;</code></p>
 <p><code>var normalized_event = { event_type: event_type, incident_key: webhook.body.data.report.id, client: 'HackerOne', client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id, description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!', details: 'The ' + severity_rating + ' report title is ' + webhook.body.data.report.attributes.title };</code></p>
 <p><code>PD.emitGenericEvents([normalized_event]);</code></p>
 <ol start="7">
