@@ -86,16 +86,16 @@
 <br><code>var severity = webhook.body.data.report.relationships.severity;</code>
 <br><code>var severity_rating = severity ? severity.data.attributes.rating : null;</code></p>
 <p><code>var normalized_event = {</code>
-<br> <code>event_type: event_type,</code>
-<br> <code>incident_key: webhook.body.data.report.id,</code>
-<br> <code>client: 'HackerOne',</code>
-<br> <code>client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,</code>
-<br> <code>description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',</code>
-<br> <code>details: 'The ' + severity_rating + ' report title is ' + webhook.body.data.report.attributes.title</code>
+<br>     <code>event_type: event_type,</code>
+<br>     <code>incident_key: webhook.body.data.report.id,</code>
+<br>     <code>client: 'HackerOne',</code>
+<br>     <code>client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,</code>
+<br>     <code>description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',</code>
+<br>     <code>details: 'The ' + severity_rating + ' report title is ' + webhook.body.data.report.attributes.title</code>
 <br> <code>};</code></p>
 <p><code>PD.emitGenericEvents([normalized_event]);</code></p>
 <ol start="7">
-<li>Click <strong>Save Changes</strong>. You’ll be redirected to the View page of the integration.</li>
+<li>Click <strong>Save Changes</strong>. You’ll be redirected to the <em>View</em> page of the integration.</li>
 <li>Copy the <em>Integration URL</em> on the view page.</li>
 <li>Log in to your account on hackerone.com.</li>
 <li>Navigate to your webhooks settings on <strong>Program Settings > Program > Webhooks</strong>.</li>
@@ -105,7 +105,7 @@
 <li><em>(Optional)</em> Select any other events you want to trigger the webhook on.</li>
 <li>Click <strong>Add webhook</strong> to save the webhook.</li>
 </ol>
-<p>Each new and triaged report that has a high or critical severity will now create an incident on Pagerduty and page the appropriate teams based on your Pagerduty policies.</p></div><div class="footer__inner"><div class="footer-row"><div class="footer-column footer-column--left"><div class="footer-column-block"><a href="https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/pagerduty-integration.md">Edit this page on GitHub</a></div></div><div class="footer-column footer-column--center"><div class="footer-column-block"><span>Was this article helpful?<!-- --> <a href="" class="upvote upvote--up">👍</a> <a href="" class="upvote upvote--down">👎</a></span></div></div><div class="footer-column footer-column--right"><div class="footer-column-block"><a href="https://www.hackerone.com" target="_blank">Back to HackerOne</a></div></div></div></div></article><div class="toc"><div class="toc-wrapper"><div class="sidebar__body"><div class="sidebar__section"><h3 class="sidebar__title sidebar__title--active">On this page</h3><ul class="sidebar__items sidebar__items--active"><li class="sidebar__item"><a href="#set-up">Set up</a></li></ul></div></div></div></div></div></div></div></div></div><script>
+<p>Each new and triaged report that has a high or critical severity will now create an incident on PagerDuty and page the appropriate teams based on your PagerDuty policies.</p></div><div class="footer__inner"><div class="footer-row"><div class="footer-column footer-column--left"><div class="footer-column-block"><a href="https://github.com/Hacker0x01/docs.hackerone.com/blob/master/docs/programs/pagerduty-integration.md">Edit this page on GitHub</a></div></div><div class="footer-column footer-column--center"><div class="footer-column-block"><span>Was this article helpful?<!-- --> <a href="" class="upvote upvote--up">👍</a> <a href="" class="upvote upvote--down">👎</a></span></div></div><div class="footer-column footer-column--right"><div class="footer-column-block"><a href="https://www.hackerone.com" target="_blank">Back to HackerOne</a></div></div></div></div></article><div class="toc"><div class="toc-wrapper"><div class="sidebar__body"><div class="sidebar__section"><h3 class="sidebar__title sidebar__title--active">On this page</h3><ul class="sidebar__items sidebar__items--active"><li class="sidebar__item"><a href="#set-up">Set up</a></li></ul></div></div></div></div></div></div></div></div></div><script>
   
   function gaOptout(){document.cookie=disableStr+'=true; expires=Thu, 31 Dec 2099 23:59:59 UTC;path=/',window[disableStr]=!0}var gaProperty='UA-49905813-10',disableStr='ga-disable-'+gaProperty;document.cookie.indexOf(disableStr+'=true')>-1&&(window[disableStr]=!0);
   if(!(parseInt(navigator.doNotTrack) === 1 || parseInt(window.doNotTrack) === 1 || parseInt(navigator.msDoNotTrack) === 1 || navigator.doNotTrack === "yes")) {
