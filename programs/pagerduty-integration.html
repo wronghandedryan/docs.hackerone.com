@@ -71,14 +71,14 @@
 <br><code>var severity_rating = severity ? severity.data.attributes.rating : null;</code></p>
 <p><code>if (severity_rating == "high" || severity_rating == "critical") {</code>
 <br> <code>var normalized_event = {</code>
-<br> <code>event_type: event_type,</code>
-<br> <code>incident_key: webhook.body.data.report.id,</code>
-<br> <code>client: 'HackerOne',</code>
-<br> <code>client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,</code>
-<br><code>description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',</code>
-<br> <code>details: 'The '+ severity_rating + ' report title is ' + &#x3C;Bwebhook.body.data.report.attributes.title</code>
-<br> <code>};</code>
-<br> <code>PD.emitGenericEvents([normalized_event]);</code>
+<br>      <code>event_type: event_type,</code>
+<br>      <code>incident_key: webhook.body.data.report.id,</code>
+<br>      <code>client: 'HackerOne',</code>
+<br>      <code>client_url: 'https://hackerone.com/reports/' + webhook.body.data.report.id,</code>
+<br>      <code>description: 'A ' + severity_rating + ' vulnerability was reported to HackerOne!',</code>
+<br>      <code>details: 'The '+ severity_rating + ' report title is ' + webhook.body.data.report.attributes.title</code>
+<br>        <code>};</code>
+<br>        <code>PD.emitGenericEvents([normalized_event]);</code>
 <br><code>}</code></p>
 <p>If you want to be notified for all reports that get created (regardless of severity) you can use the following code instead:</p>
 <p><code>var webhook = PD.inputRequest;</code>
